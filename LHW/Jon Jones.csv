@@ -1,0 +1,27 @@
+Fighter,Result, Opponent, R, Time,Event,Month,Day,Year,Method,Finish,Referee
+Jon Jones,win, Anthony Smith, 5, 5:00, UFC 235 - Jones vs. Smith,Mar , 02 , 2019, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Alexander Gustafsson, 3, 2:02, UFC 232 - Jones vs. Gustafsson 2,Dec , 29 , 2018, KO ,Punches,Mike Beltran
+Jon Jones,NC, Daniel Cormier, 3, 3:01, UFC 214 - Cormier vs. Jones 2,Jul , 29 , 2017, No Contest ,Overturned by CSAC,John McCarthy
+Jon Jones,win, Ovince St. Preux, 5, 5:00, UFC 197 - Jones vs. St. Preux,Apr , 23 , 2016, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Daniel Cormier, 5, 5:00, UFC 182 - Jones vs. Cormier,Jan , 03 , 2015, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Glover Teixeira, 5, 5:00, UFC 172 - Jones vs. Teixeira,Apr , 26 , 2014, Decision ,Unanimous,Dan Miragliotta
+Jon Jones,win, Alexander Gustafsson, 5, 5:00, UFC 165 - Jones vs. Gustafsson,Sep , 21 , 2013, Decision ,Unanimous,John McCarthy
+Jon Jones,win, Chael Sonnen, 1, 4:33, UFC 159 - Jones vs. Sonnen,Apr , 27 , 2013, TKO ,Elbows and Punches,Keith Peterson
+Jon Jones,win, Vitor Belfort, 4, 0:54, UFC 152 - Jones vs. Belfort,Sep , 22 , 2012, Submission ,Keylock,John McCarthy
+Jon Jones,win, Rashad Evans, 5, 5:00, UFC 145 - Jones vs. Evans,Apr , 21 , 2012, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Lyoto Machida, 2, 4:26, UFC 140 - Jones vs. Machida,Dec , 10 , 2011, Technical Submission ,Guillotine Choke,John McCarthy
+Jon Jones,win, Quinton Jackson, 4, 1:14, UFC 135 - Jones vs. Rampage,Sep , 24 , 2011, Submission ,Rear-Naked Choke,Josh Rosenthal
+Jon Jones,win, Mauricio Rua, 3, 2:37, UFC 128 - Shogun vs. Jones,Mar , 19 , 2011, TKO ,Punches and Knees,Herb Dean
+Jon Jones,win, Ryan Bader, 2, 4:20, UFC 126 - Silva vs. Belfort,Feb , 05 , 2011, Submission ,Guillotine Choke,Herb Dean
+Jon Jones,win, Vladimir Matyushenko, 1, 1:52, UFC Live 2 - Jones vs. Matyushenko,Aug , 01 , 2010, TKO ,Elbows,Herb Dean
+Jon Jones,win, Brandon Vera, 1, 3:19, UFC Live 1 - Vera vs. Jones,Mar , 21 , 2010, TKO ,Elbows and Punches,Herb Dean
+Jon Jones,loss, Matt Hamill, 1, 4:14, UFC - The Ultimate Fighter 10 Finale,Dec , 05 , 2009, Disqualification ,Illegal Elbows,Steve Mazzagatti
+Jon Jones,win, Jake O'Brien, 2, 2:43, UFC 100 - Lesnar vs. Mir 2,Jul , 11 , 2009, Submission ,Guillotine Choke,Yves Lavigne
+Jon Jones,win, Stephan Bonnar, 3, 5:00, UFC 94 - St. Pierre vs. Penn 2,Jan , 31 , 2009, Decision ,Unanimous,Steve Mazzagatti
+Jon Jones,win, Andre Gusmao, 3, 5:00, UFC 87 - Seek and Destroy,Aug , 09 , 2008, Decision ,Unanimous,Daryl Guthmiller
+Jon Jones,win, Moyses Gabin, 2, 1:58, BCX 5 - Battle Cage Xtreme 5,Jul , 12 , 2008, TKO ,Punches,Kevin Mulhall
+Jon Jones,win, Parker Porter, 1, 0:36, WCF - World Championship Fighting 3,Jun , 20 , 2008, KO ,Punch,N/A
+Jon Jones,win, Ryan Verrett, 1, 0:14, USFL - War in the Woods 3,May , 09 , 2008, TKO ,Punches,N/A
+Jon Jones,win, Anthony Pina, 1, 1:15, ICE Fighter - ICE Fighter,Apr , 25 , 2008, Submission ,Guillotine Choke,N/A
+Jon Jones,win, Carlos    Eduardo, 3, 0:24, BCX 4 - Battle Cage Xtreme 4,Apr , 19 , 2008, KO ,Punches,Kevin Mulhall
+Jon Jones,win, Brad Bernard, 1, 1:32, FFP - Untamed 20,Apr , 12 , 2008, TKO ,Punches,N/A

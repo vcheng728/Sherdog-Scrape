@@ -1,0 +1,821 @@
+Fighter,Result, Opponent, R, Time,Event,Month,Day,Year,Method,Finish,Referee
+Aleksandar Rakic,win, Jimi Manuwa,1, 0:42, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, KO ,Head Kick,Kevin Sataki
+Aleksandar Rakic,win, Devin Clark,1, 4:05, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, TKO ,Punches,Brian Beauchamp
+Aleksandar Rakic,win, Justin Ledet,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Aleksandar Rakic,win, Francimar Barroso,3, 5:00, UFC Fight Night 115 - Volkov vs. Struve,Sep ,2.0,2017.0, Decision ,Unanimous,Marc Goddard
+Aleksandar Rakic,win, Sergio Souza,1, N/A, AFC - Austrian Fight Challenge 5,Mar ,4.0,2017.0, TKO ,Punches,Grant Waterman
+Aleksandar Rakic,win, Martin Batur,1, 0:26, AFC - Austrian Fight Challenge 1,Jun ,20.0,2015.0, KO ,Punch,Jan Vobornik
+Aleksandar Rakic,win, Marcin Prachnio,3, 3:00, FFC - Final Fight Championship 16,Dec ,6.0,2014.0, TKO ,Punches,Zlatko Klaric
+Aleksandar Rakic,win, Norbert Peter,1, 4:57, HG - Heimgala 2,Sep ,13.0,2014.0, TKO ,Punches,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Peter Rozmaring,1, 1:32, Vendetta - Rookies 2,Jul ,6.0,2013.0, Submission ,North-South Choke,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Laszlo Czene,1, 0:00, WFC - Challengers 3,Jun ,3.0,2012.0, KO ,Head Kick,
+Aleksandar Rakic,win, Richard Longhimo,2, 4:30, Iron Fist - Vendetta 3,Mar ,18.0,2012.0, TKO ,Punches,
+Aleksandar Rakic,win, Carsten Lorenz,1, 1:42, FFA - New Talents 15,Feb ,4.0,2012.0, TKO ,Punches,Reiko Bertz
+Aleksandar Rakic,loss, Christian Radke,1, 4:34, RTC - Rock the Cage 2,Oct ,15.0,2011.0, Submission ,Guillotine Choke,
+Aleksandar Rakic,win, Jimi Manuwa,1, 0:42, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, KO ,Head Kick,Kevin Sataki
+Aleksandar Rakic,win, Devin Clark,1, 4:05, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, TKO ,Punches,Brian Beauchamp
+Aleksandar Rakic,win, Justin Ledet,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Aleksandar Rakic,win, Francimar Barroso,3, 5:00, UFC Fight Night 115 - Volkov vs. Struve,Sep ,2.0,2017.0, Decision ,Unanimous,Marc Goddard
+Aleksandar Rakic,win, Sergio Souza,1, N/A, AFC - Austrian Fight Challenge 5,Mar ,4.0,2017.0, TKO ,Punches,Grant Waterman
+Aleksandar Rakic,win, Martin Batur,1, 0:26, AFC - Austrian Fight Challenge 1,Jun ,20.0,2015.0, KO ,Punch,Jan Vobornik
+Aleksandar Rakic,win, Marcin Prachnio,3, 3:00, FFC - Final Fight Championship 16,Dec ,6.0,2014.0, TKO ,Punches,Zlatko Klaric
+Aleksandar Rakic,win, Norbert Peter,1, 4:57, HG - Heimgala 2,Sep ,13.0,2014.0, TKO ,Punches,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Peter Rozmaring,1, 1:32, Vendetta - Rookies 2,Jul ,6.0,2013.0, Submission ,North-South Choke,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Laszlo Czene,1, 0:00, WFC - Challengers 3,Jun ,3.0,2012.0, KO ,Head Kick,
+Aleksandar Rakic,win, Richard Longhimo,2, 4:30, Iron Fist - Vendetta 3,Mar ,18.0,2012.0, TKO ,Punches,
+Aleksandar Rakic,win, Carsten Lorenz,1, 1:42, FFA - New Talents 15,Feb ,4.0,2012.0, TKO ,Punches,Reiko Bertz
+Aleksandar Rakic,loss, Christian Radke,1, 4:34, RTC - Rock the Cage 2,Oct ,15.0,2011.0, Submission ,Guillotine Choke,
+Alexander Gustafsson,loss, Anthony Smith,4, 2:38, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, Submission ,Rear-Naked Choke,Marc Goddard
+Alexander Gustafsson,loss, Jon Jones,3, 2:02, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, KO ,Punches,Mike Beltran
+Alexander Gustafsson,win, Glover Teixeira,5, 1:07, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punches,Marc Goddard
+Alexander Gustafsson,win, Jan Blachowicz,3, 5:00, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, Decision ,Unanimous,Marc Goddard
+Alexander Gustafsson,loss, Daniel Cormier,5, 5:00, UFC 192 - Cormier vs. Gustafsson,Oct ,3.0,2015.0, Decision ,Split,Herb Dean
+Alexander Gustafsson,loss, Anthony Johnson,1, 2:15, UFC on Fox 14 - Gustafsson vs. Johnson,Jan ,24.0,2015.0, TKO ,Punches,Marc Goddard
+Alexander Gustafsson,win, Jimi Manuwa,2, 1:18, UFC Fight Night 37 - Gustafsson vs. Manuwa,Mar ,8.0,2014.0, TKO ,Knee and Punches,Marc Goddard
+Alexander Gustafsson,loss, Jon Jones,5, 5:00, UFC 165 - Jones vs. Gustafsson,Sep ,21.0,2013.0, Decision ,Unanimous,John McCarthy
+Alexander Gustafsson,win, Mauricio Rua,3, 5:00, UFC on Fox 5 - Henderson vs. Diaz,Dec ,8.0,2012.0, Decision ,Unanimous,Dan Miragliotta
+Alexander Gustafsson,win, Thiago Silva,3, 5:00, UFC on Fuel TV 2 - Gustafsson vs. Silva,Apr ,14.0,2012.0, Decision ,Unanimous,Leon Roberts
+Alexander Gustafsson,win, Vladimir Matyushenko,1, 2:13, UFC 141 - Lesnar vs. Overeem,Dec ,30.0,2011.0, TKO ,Punches,Yves Lavigne
+Alexander Gustafsson,win, Matt Hamill,2, 3:41, UFC 133 - Evans vs. Ortiz 2,Aug ,6.0,2011.0, TKO ,Punches and Elbows,Dan Miragliotta
+Alexander Gustafsson,win, James Te Huna,1, 4:27, UFC 127 - Penn vs. Fitch,Feb ,27.0,2011.0, Submission ,Rear-Naked Choke,Marc Goddard
+Alexander Gustafsson,win, Cyrille Diabate,2, 2:41, UFC 120 - Bisping vs. Akiyama,Oct ,16.0,2010.0, Submission ,Rear-Naked Choke,Leon Roberts
+Alexander Gustafsson,loss, Phil Davis,1, 4:55, UFC 112 - Invincible,Apr ,10.0,2010.0, Submission ,Anaconda Choke,Dan Miragliotta
+Alexander Gustafsson,win, Jared Hamman,1, 0:41, UFC 105 - Couture vs. Vera,Nov ,14.0,2009.0, KO ,Punches,Kevin Mulhall
+Alexander Gustafsson,win, Vladimir Shemarov,1, 2:37, Superior Challenge 3 - Untamed,May ,30.0,2009.0, KO ,Punches,
+Alexander Gustafsson,win, Pedro Quetglas,1, 2:08, The Zone FC 3 - Shockwave,Nov ,8.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Krzysztof Kulak,2, 5:00, KSW - Extra,Sep ,13.0,2008.0, Decision ,Unanimous,Robert Kostecki
+Alexander Gustafsson,win, Matteo Minonzio,1, 3:52, The Zone FC 2 - Showdown,May ,10.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Florian Muller,2, 3:44, FS - Fite Selektor,Mar ,13.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Farbod Fadami,1, 2:31, The Zone FC 1 - The Zone,Feb ,9.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Mikael Haydari,1, 0:50, FF 9 - FinnFight 9,Dec ,15.0,2007.0, TKO ,Punches,
+Alexander Gustafsson,win, Saku Heikkola,2, 3:42, Shooto Finland - Chicago Collision 3,Nov ,17.0,2007.0, Submission ,Rear-Naked Choke,
+Anthony Smith,win, Alexander Gustafsson,4, 2:38, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, Submission ,Rear-Naked Choke,Marc Goddard
+Anthony Smith,loss, Jon Jones,5, 5:00, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, Decision ,Unanimous,Herb Dean
+Anthony Smith,win, Volkan Oezdemir,3, 4:26, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Rear-Naked Choke,Yves Lavigne
+Anthony Smith,win, Mauricio Rua,1, 1:29, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, KO ,Elbow,Marc Goddard
+Anthony Smith,win, Rashad Evans,1, 0:53, UFC 225 - Whittaker vs. Romero 2,Jun ,9.0,2018.0, KO ,Knee,Dan Miragliotta
+Anthony Smith,loss, Thiago Santos,2, 1:03, UFC Fight Night 125 - Machida vs. Anders,Feb ,3.0,2018.0, TKO ,Kick to the Body and Punches,Marc Goddard
+Anthony Smith,win, Hector Lombard,3, 2:33, UFC Fight Night 116 - Rockhold vs. Branch,Sep ,16.0,2017.0, KO ,Punch,Dan Miragliotta
+Anthony Smith,win, Andrew Sanchez,3, 3:52, UFC on Fox 24 - Johnson vs. Reis,Apr ,15.0,2017.0, KO ,Head Kick and Punches,Keith Peterson
+Anthony Smith,win, Elvis Mutapcic,2, 3:27, UFC - The Ultimate Fighter 24 Finale,Dec ,3.0,2016.0, TKO ,Elbow and Punches,Mark Smith
+Anthony Smith,loss, Cezar Ferreira,3, 5:00, UFC  - The Ultimate Fighter 23 Finale,Jul ,8.0,2016.0, Decision ,Unanimous,Chris Tognoni
+Anthony Smith,win, Leonardo Guimaraes,3, 5:00, UFC Fight Night 83 - Cerrone vs. Oliveira,Feb ,21.0,2016.0, Decision ,Unanimous,Chip Snider
+Anthony Smith,win, Josh Neer,1, 3:27, VFC - Victory Fighting Championship 47,Jan ,29.0,2016.0, TKO ,Punches,Brandon Pfannenstiel
+Anthony Smith,win, Brock Jardine,1, 3:00, RFA 30 - Smith vs. Jardine,Sep ,18.0,2015.0, TKO ,Punches,Jim Axtell
+Anthony Smith,win, Tim Williams,1, 1:02, CFFC 50 - Smith vs. Williams,Jul ,18.0,2015.0, TKO ,Knee,Keith Peterson
+Anthony Smith,win, Tim Williams,2, 1:15, CFFC 46 - Williams vs. Smith,Feb ,28.0,2015.0, Submission ,Inverted Triangle Choke,James Chappell
+Anthony Smith,win, Andrew Kapel,1, N/A, EB - Beatdown at 4 Bears 12,Nov ,29.0,2014.0, Submission ,Rear-Naked Choke,Bobby Wombacher
+Anthony Smith,win, Brian Green,3, 5:00, Bellator MMA - Bellator 129,Oct ,17.0,2014.0, Decision ,Unanimous,Rob Hinds
+Anthony Smith,win, Victor Moreno,2, 0:59, Bellator MMA - Bellator 117,Apr ,18.0,2014.0, Submission ,Triangle Choke,Bruce Allen
+Anthony Smith,loss, Josh Neer,3, 3:38, VFC - Victory Fighting Championship 41,Dec ,14.0,2013.0, Submission ,Rear-Naked Choke,
+Anthony Smith,loss, Antonio Braga Neto,1, 1:52, UFC on Fuel TV 10 - Nogueira vs. Werdum,Jun ,8.0,2013.0, Submission ,Kneebar,Marc Goddard
+Anthony Smith,loss, Roger Gracie,2, 3:16, Strikeforce - Marquardt vs. Saffiedine,Jan ,12.0,2013.0, Submission ,Arm-Triangle Choke,John McCarthy
+Anthony Smith,win, Lumumba Sayers,1, 3:52, Strikeforce - Rousey vs. Kaufman,Aug ,18.0,2012.0, Submission ,Triangle Choke,Herb Dean
+Anthony Smith,win, Richard White,1, 2:35, Disorderly Conduct 9 - Fireworks,Jun ,30.0,2012.0, TKO ,Punches,
+Anthony Smith,win, Ian Berg,2, 2:01, VFC - Victory Fighting Championship 37,Apr ,13.0,2012.0, Submission ,Arm-Triangle Choke,
+Anthony Smith,loss, Adlan Amagov,1, 2:32, Strikeforce - Challengers 20,Nov ,18.0,2011.0, KO ,Punches,Chris Tognoni
+Anthony Smith,win, Ben Lagman,2, 0:33, Strikeforce - Challengers 17,Jul ,22.0,2011.0, KO ,Punch,Josh Rosenthal
+Anthony Smith,win, Curtis Johnson,1, 3:13, CFC 6 - Slugfest,Jul ,9.0,2011.0, KO ,Punches,
+Anthony Smith,win, Eric Schambari,1, 1:46, C3 Fights - MMA Championship Fights,Jun ,4.0,2011.0, TKO ,Punches,
+Anthony Smith,win, Matt Gabel,1, 1:50, EC - Extreme Challenge 181,Apr ,15.0,2011.0, Submission ,Triangle Choke,
+Anthony Smith,win, Demetrius Richards,2, 2:07, Extreme Challenge - Bad Blood,Feb ,11.0,2011.0, TKO ,Punches,
+Anthony Smith,win, Ben Crowder,1, 1:09, CFC 2 - Season's Beatings,Dec ,17.0,2010.0, KO ,Punch,
+Anthony Smith,loss, Jesse Forbes,2, 1:28, Crowbar MMA - Fall Brawl,Sep ,11.0,2010.0, TKO ,Punches,Daniel Grimestad
+Anthony Smith,win, Logan Clark,2, 2:22, Seconds Out / Vivid MMA - Havoc at the Hyatt 2,Jun ,19.0,2010.0, TKO ,Doctor Stoppage,
+Anthony Smith,win, Lucas St. Claire,1, 3:19, MF  - Max Fights 10,May ,8.0,2010.0, Submission ,Armbar,Jeremy Ryder
+Anthony Smith,win, Mike George,1, 0:22, TriState Cage Fights - Island Warfare,Apr ,17.0,2010.0, KO ,Punch,
+Anthony Smith,loss, Jake Hecht,3, 4:35, VFC 30 - Night of Champions,Feb ,5.0,2010.0, TKO ,Punches,
+Anthony Smith,loss, Mike Pitz,2, 3:21, FCI - Fight Club Inc.,Jul ,25.0,2009.0, TKO ,Submission to Punches,David Smith
+Anthony Smith,loss, Chaun Sims,2, 2:00, FTW - Colorado vs. Nebraska,Mar ,14.0,2009.0, TKO ,Punches,Tom Johnson
+Anthony Smith,loss, Brian Monaghan,1, 0:00, VFC 26 - Onslaught,Feb ,20.0,2009.0, Submission ,Armbar,
+Anthony Smith,win, Rico Washington,1, 0:54, MCS - Minnesota Combat Sports,Jan ,9.0,2009.0, TKO ,Submission to Punches,
+Anthony Smith,loss, Charley Lynch,1, 3:12, Brutaal - Fight Night,Nov ,6.0,2008.0, TKO ,Punches,
+Anthony Smith,win, Chuck Parmelee,2, 1:26, Torment - MMA,Sep ,20.0,2008.0, SubmissionJosh Arney,,
+Anthony Smith,loss, Chuck Parmelee,2, 0:00, TCF - TriState Cage Fights,Jun ,14.0,2008.0, TKO ,Punches,
+Anthony Smith,win, Ricky Duvall,0, N/A, VFC 23 - Validation,May ,9.0,2008.0,,,
+Anthony Smith,win, Jeremy Shepherd,2, 2:13, PP - Pugilistic Productions,Mar ,22.0,2008.0, SubmissionJosh Amey,,
+Anthony Smith,win, Dave Moran,2, 1:19, VFC 22 - Ascension,Feb ,29.0,2008.0, Submission ,Armbar,
+Corey Anderson ,win, Ilir Latifi, 3, 5:00, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, Decision ,Unanimous,Marc Goddard
+Corey Anderson ,win, Glover Teixeira, 3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Corey Anderson ,win, Patrick Cummins, 3, 5:00, UFC Fight Night 128 - Barboza vs. Lee,Apr ,21.0,2018.0, Decision ,Unanimous,Marc Goddard
+Corey Anderson ,loss, Ovince St. Preux, 3, 1:25, UFC 217 - Bisping vs. St. Pierre,Nov ,4.0,2017.0, KO ,Head Kick,Dan Miragliotta
+Corey Anderson ,loss, Jimi Manuwa, 1, 3:05, UFC Fight Night 107 - Manuwa vs. Anderson,Mar ,18.0,2017.0, KO ,Punch,Leon Roberts
+Corey Anderson ,win, Sean O'Connell, 2, 2:36, UFC Fight Night 102 - Lewis vs. Abdurakhimov,Dec ,9.0,2016.0, TKO ,Punches,Todd Anderson
+Corey Anderson ,loss, Mauricio Rua, 3, 5:00, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, Decision ,Split,Mario Yamasaki
+Corey Anderson ,win, Tom Lawlor, 3, 5:00, UFC 196 - McGregor vs. Diaz,Mar ,5.0,2016.0, Decision ,Unanimous,John McCarthy
+Corey Anderson ,win, Fabio Maldonado, 3, 5:00, UFC Fight Night 77 - Belfort vs. Henderson 3,Nov ,7.0,2015.0, Decision ,Unanimous,Herb Dean
+Corey Anderson ,win, Jan Blachowicz, 3, 5:00, UFC 191 - Johnson vs. Dodson 2,Sep ,5.0,2015.0, Decision ,Unanimous,Herb Dean
+Corey Anderson ,loss, Gian Villante, 3, 4:18, UFC on Fox 15 - Machida vs. Rockhold,Apr ,18.0,2015.0, TKO ,Punches,Liam Kerrigan
+Corey Anderson ,win, Justin Jones, 3, 5:00, UFC 181 - Hendricks vs. Lawler 2,Dec ,6.0,2014.0, Decision ,Unanimous,John McCarthy
+Corey Anderson ,win, Matt Van Buren, 1, 1:01, UFC - The Ultimate Fighter 19 Finale,Jul ,6.0,2014.0, TKO ,Punches,Mario Yamasaki
+Corey Anderson ,win, Stephen Flanagan, 1, 3:03, MMA Xtreme - Fists Will Fly,Aug ,24.0,2013.0, TKO ,Punches,Gary Copeland
+Corey Anderson ,win, Myron Dennis, 5, 5:00, Xtreme Fighting League - Vengeance,Jun ,28.0,2013.0, Decision ,Unanimous,
+Corey Anderson ,win, J.R. Briones, 1, 3:01, NAFC - Battleground,Mar ,29.0,2013.0, TKO ,Punches,Al Wichgers
+Corey Anderson ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Corey Anderson ,win, Patrick Walsh,3,5:00,UFC - The Ultimate Fighter Season 19 Semifinals Day 1,Nov ,21.0,2013.0,Decision ,Unanimous,Chris Tognoni
+Corey Anderson ,win, Josh Clark,2,5:00,UFC - The Ultimate Fighter Season 19 Quarterfinals Day 4,Nov ,5.0,2013.0,Decision ,Unanimous,Chris Tognoni
+Corey Anderson ,win, Kelly Anundson, 2, 5:00, UFC - The Ultimate Fighter Season 19 Elimination Fights,Oct ,16.0,2013.0, Decision ,Unanimous,Kim Winslow
+Daniel Cormier,win, Derrick Lewis,2, 2:14, UFC 230 - Cormier vs. Lewis,Nov ,3.0,2018.0, Submission ,Rear-Naked Choke,Herb Dean
+Daniel Cormier,win, Stipe Miocic,1, 4:33, UFC 226 - Miocic vs. Cormier,Jul ,7.0,2018.0, KO ,Punches,Marc Goddard
+Daniel Cormier,win, Volkan Oezdemir,2, 2:00, UFC 220 - Miocic vs. Ngannou,Jan ,20.0,2018.0, TKO ,Punches,Kevin MacDonald
+Daniel Cormier,NC, Jon Jones,3, 3:01, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, No Contest ,Overturned by CSAC,John McCarthy
+Daniel Cormier,win, Anthony Johnson,2, 3:37, UFC 210 - Cormier vs. Johnson 2,Apr ,8.0,2017.0, Submission ,Rear-Naked Choke,John McCarthy
+Daniel Cormier,win, Anderson Silva,3, 5:00, UFC 200 - Tate vs. Nunes,Jul ,9.0,2016.0, Decision ,Unanimous,John McCarthy
+Daniel Cormier,win, Alexander Gustafsson,5, 5:00, UFC 192 - Cormier vs. Gustafsson,Oct ,3.0,2015.0, Decision ,Split,Herb Dean
+Daniel Cormier,win, Anthony Johnson,3, 2:39, UFC 187 - Johnson vs. Cormier,May ,23.0,2015.0, Submission ,Rear-Naked Choke,John McCarthy
+Daniel Cormier,loss, Jon Jones,5, 5:00, UFC 182 - Jones vs. Cormier,Jan ,3.0,2015.0, Decision ,Unanimous,Herb Dean
+Daniel Cormier,win, Dan Henderson,3, 3:53, UFC 173 - Barao vs. Dillashaw,May ,24.0,2014.0, Technical Submission ,Rear-Naked Choke,Yves Lavigne
+Daniel Cormier,win, Patrick Cummins,1, 1:19, UFC 170 - Rousey vs. McMann,Feb ,22.0,2014.0, TKO ,Punches,Mario Yamasaki
+Daniel Cormier,win, Roy Nelson,3, 5:00, UFC 166 - Velasquez vs. Dos Santos 3,Oct ,19.0,2013.0, Decision ,Unanimous,Jacob Montalvo
+Daniel Cormier,win, Frank Mir,3, 5:00, UFC on Fox 7 - Henderson vs. Melendez,Apr ,20.0,2013.0, Decision ,Unanimous,Herb Dean
+Daniel Cormier,win, Dion Staring,2, 4:02, Strikeforce - Marquardt vs. Saffiedine,Jan ,12.0,2013.0, TKO ,Punches,John McCarthy
+Daniel Cormier,win, Josh Barnett,5, 5:00, Strikeforce - Barnett vs. Cormier,May ,19.0,2012.0, Decision ,Unanimous,Josh Rosenthal
+Daniel Cormier,win, Antonio Silva,1, 3:56, Strikeforce - Barnett vs. Kharitonov,Sep ,10.0,2011.0, KO ,Punches,Greg Franklin
+Daniel Cormier,win, Jeff Monson,3, 5:00, Strikeforce - Overeem vs. Werdum,Jun ,18.0,2011.0, Decision ,Unanimous,Leon Roberts
+Daniel Cormier,win, Devin Cole,3, 5:00, Strikeforce - Challengers 13,Jan ,7.0,2011.0, Decision ,Unanimous,Greg Franklin
+Daniel Cormier,win, Soa Palelei,1, 0:00, XMMA - Xtreme MMA 3,Nov ,5.0,2010.0, TKO ,Submission to Punches,
+Daniel Cormier,win, Jason Riley,1, 1:02, Strikeforce - Houston,Aug ,21.0,2010.0, TKO ,Submission to Punches,Kerry Hatley
+Daniel Cormier,win, Tony Johnson,1, 2:27, KOTC - Imminent Danger,Aug ,13.0,2010.0, Submission ,Rear-Naked Choke,Cecil Peoples
+Daniel Cormier,win, Lucas Browne,1, 4:35, XMMA 2 - ANZ vs. USA,Jul ,31.0,2010.0, TKO ,Punches,Kostas Papaioannou
+Daniel Cormier,win, John Devine,1, 1:09, Strikeforce - Challengers 7,Mar ,26.0,2010.0, KO ,Punch,
+Daniel Cormier,win, Gary Frazier,2, 3:39, Strikeforce - Challengers 3,Sep ,25.0,2009.0, TKO ,Punches,Kevin Nix
+Dominick Reyes ,win, Volkan Oezdemir, 3, 5:00, UFC Fight Night 147 - Till vs. Masvidal,Mar ,16.0,2019.0, Decision ,Split,Leon Roberts
+Dominick Reyes ,win, Ovince St. Preux, 3, 5:00, UFC 229 - Nurmagomedov vs. McGregor,Oct ,6.0,2018.0, Decision ,Unanimous,Dan Miragliotta
+Dominick Reyes ,win, Jared Cannonier, 1, 2:55, UFC Fight Night 129 - Maia vs. Usman,May ,19.0,2018.0, TKO ,Punches,Marc Goddard
+Dominick Reyes ,win, Jeremy Kimball, 1, 3:39, UFC 218 - Holloway vs. Aldo 2,Dec ,2.0,2017.0, Submission ,Rear-Naked Choke,Bobby Wombacher
+Dominick Reyes ,win, Joachim Christensen, 1, 0:29, UFC Fight Night 112 - Chiesa vs. Lee,Jun ,25.0,2017.0, TKO ,Punches,Gary Ritter
+Dominick Reyes ,win, Jordan Powell, 1, 0:53, LFA 13 - Millender vs. Holland,Jun ,2.0,2017.0, KO ,Head Kick,Mike Beltran
+Dominick Reyes ,win, Marcus Govan, 1, 0:27, HFC 32 - Hoosier Fight Club 32,Feb ,11.0,2017.0, KO ,Head Kick,
+Dominick Reyes ,win, Tyler Smith, 1, 1:35, KOTC - Martial Law,Sep ,18.0,2016.0, TKO ,Punches,Michael Bell
+Dominick Reyes ,win, Kelly Gray, 3, 5:00, KOTC - Sinister Intentions,Oct ,17.0,2015.0, Decision ,Unanimous,Jason Herzog
+Dominick Reyes ,win, Jessie Glass, 1, 0:55, Gladiator Challenge - Carnage,Apr ,3.0,2015.0, Submission ,Guillotine Choke,Raul Porrata
+Dominick Reyes ,win, Jose Rivas Jr., 1, 3:23, KOTC - Fisticuffs,Dec ,4.0,2014.0, TKO ,Punches,
+Dominick Reyes ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Dominick Reyes ,win, Shane Merveau, 1, :09, U of MMA - Fight Night 8,Aug ,24.0,2014.0, TKO ,Punches,
+Dominick Reyes ,win, Osman Diaz, 1, :27, U of MMA - Fight Night 7,Jun ,1.0,2014.0, SubmissionN/A,,
+Dominick Reyes ,win, Bruno Casillas, 3, 2:00, U of MMA - Fight Night 6,Mar ,30.0,2014.0, Decision ,Unanimous,
+Dominick Reyes ,win, Tywone Cotton, 1, 1:20, Spar Star Promotions - Who's Next,Jan ,25.0,2014.0, KO ,Punch,
+Dominick Reyes ,win, Renato Gudino, 1, 1:22, U of MMA - Fight Night 4,Dec ,8.0,2013.0, SubmissionN/A,,
+Glover Teixeir,win, Ion Cutelaba,2, 3:37, UFC Fight Night 150 - Jacare vs. Hermansson,Apr ,27.0,2019.0, Submission ,Rear-Naked Choke,Alan Abeles
+Glover Teixeir,win, Karl Roberson,1, 3:21, UFC Fight Night 143 - Cejudo vs. Dillashaw,Jan ,19.0,2019.0, Submission ,Arm-Triangle Choke,Dan Miragliotta
+Glover Teixeir,loss, Corey Anderson,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Glover Teixeir,win, Misha Cirkunov,1, 2:45, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, TKO ,Punches,Dan Miragliotta
+Glover Teixeir,loss, Alexander Gustafsson,5, 1:07, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punches,Marc Goddard
+Glover Teixeir,win, Jared Cannonier,3, 5:00, UFC 208 - Holm vs. De Randamie,Feb ,11.0,2017.0, Decision ,Unanimous,Kevin MacDonald
+Glover Teixeir,loss, Anthony Johnson,1, 0:13, UFC 202 - Diaz vs. McGregor 2,Aug ,20.0,2016.0, KO ,Punch,Dan Miragliotta
+Glover Teixeir,win, Rashad Evans,1, 1:48, UFC on Fox 19 - Teixeira vs. Evans,Apr ,16.0,2016.0, KO ,Punches,Herb Dean
+Glover Teixeir,win, Patrick Cummins,2, 1:12, UFC Fight Night 77 - Belfort vs. Henderson 3,Nov ,7.0,2015.0, TKO ,Punches,Herb Dean
+Glover Teixeir,win, Ovince St. Preux,3, 3:10, UFC Fight Night 73 - Teixeira vs. St. Preux,Aug ,8.0,2015.0, Technical Submission ,Rear-Naked Choke,John McCarthy
+Glover Teixeir,loss, Phil Davis,3, 5:00, UFC 179 - Aldo vs. Mendes 2,Oct ,25.0,2014.0, Decision ,Unanimous,Mario Yamasaki
+Glover Teixeir,loss, Jon Jones,5, 5:00, UFC 172 - Jones vs. Teixeira,Apr ,26.0,2014.0, Decision ,Unanimous,Dan Miragliotta
+Glover Teixeir,win, Ryan Bader,1, 2:55, UFC Fight Night 28 - Teixeira vs. Bader,Sep ,4.0,2013.0, TKO ,Punches,Herb Dean
+Glover Teixeir,win, James Te Huna,1, 2:38, UFC 160 - Velasquez vs. Bigfoot 2,May ,25.0,2013.0, Submission ,Guillotine Choke,Herb Dean
+Glover Teixeir,win, Quinton Jackson,3, 5:00, UFC on Fox 6 - Johnson vs. Dodson,Jan ,26.0,2013.0, Decision ,Unanimous,Herb Dean
+Glover Teixeir,win, Fabio Maldonado,2, 5:00, UFC 153 - Silva vs. Bonnar,Oct ,13.0,2012.0, TKO ,Doctor Stoppage,Mario Yamasaki
+Glover Teixeir,win, Kyle Kingsbury,1, 1:53, UFC 146 - Dos Santos vs. Mir,May ,26.0,2012.0, Submission ,Arm-Triangle Choke,Steve Mazzagatti
+Glover Teixeir,win, Ricco Rodriguez,1, 1:58, MMAAD - MMA Against Dengue,Nov ,27.0,2011.0, TKO ,Submission to Punches,
+Glover Teixeir,win, Marvin Eastman,1, 4:00, Shooto Brazil 25 - Fight for BOPE,Aug ,25.0,2011.0, KO ,Punch,Cacau
+Glover Teixeir,win, Antonio Mendes,1, 4:06, Shooto Brazil - Shooto Brazil 24,Aug ,5.0,2011.0, Submission ,Rear-Naked Choke,Marlon Sandro
+Glover Teixeir,win, Marcio Cruz,2, 4:21, Fight Club 1 - Brazilian Stars,Jul ,20.0,2011.0, TKO ,Punches,Artur Mariano
+Glover Teixeir,win, Simao Melo da Silva,1, 1:49, Shooto Brazil - Shooto Brazil 23,Jun ,4.0,2011.0, KO ,Punches,
+Glover Teixeir,win, Daniel Tabera,3, 5:00, Bitetti Combat 8 - 100 Years of Corinthians,Dec ,4.0,2010.0, Decision ,Unanimous,
+Glover Teixeir,win, Marko Peselj,1, 2:55, Impact FC 2 - The Uprising: Sydney,Jul ,18.0,2010.0, TKO ,Punches,John McCarthy
+Glover Teixeir,win, Tiago Monaco Tosato,1, 1:27, BC - Bitetti Combat 7,May ,28.0,2010.0, TKO ,Punches,Mario Yamasaki
+Glover Teixeir,win, Joaquim Ferreira,2, 1:30, BC - Bitetti Combat 6,Feb ,25.0,2010.0, TKO ,Corner Stoppage,Mario Yamasaki
+Glover Teixeir,win, Leonardo Nascimento Lucio,1, 3:11, BC - Bitetti Combat 4,Sep ,12.0,2009.0, Technical Submission ,Guillotine Choke,John McCarthy
+Glover Teixeir,win, Buckley Acosta,1, 1:00, PFC 7 - Palace Fighting Championship 7,Mar ,20.0,2008.0, TKO ,Punches,
+Glover Teixeir,win, Jorge Oliveira,1,0:05,"PFC 6 -No Retreat,No Surrender",Jan ,17.0,2008.0,KO ,Punches,
+Glover Teixeir,win, Rameau Thierry Sokoudjou,1, 1:41, WEC 24 - Full Force,Oct ,12.0,2006.0, KO ,Punches,Jon Schorle
+Glover Teixeir,win, Jack Morrison,1, 1:27, WEC 22 - The Hitman,Jul ,28.0,2006.0, Submission ,Rear-Naked Choke,Nathan Gullian
+Glover Teixeir,win, Carlton Jones,1, 1:57, WEC 20 - Cinco de Mayhem,May ,5.0,2006.0, TKO ,Punches,Jon Schorle
+Glover Teixeir,loss, Ed Herman,3, 5:00, SF 9 - Respect,Mar ,26.0,2005.0, Decision ,Unanimous,
+Glover Teixeir,win, Justin Ellison,1, N/A, SF 5 - Stadium,Aug ,28.0,2004.0, TKO ,Punches,
+Glover Teixeir,win, Matt Horwich,3, 5:00, SF 3 - Dome,Apr ,17.0,2004.0, Decision ,Unanimous,
+Glover Teixeir,loss, Eric Schwartz,2, 3:33, WEC 3 - All or Nothing,Jun ,7.0,2002.0, TKO ,Punches and Elbows,
+Ilir Latifi,loss, Corey Anderson, 3, 5:00, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, Decision ,Unanimous,Marc Goddard
+Ilir Latifi,win, Ovince St. Preux, 1, 3:48, UFC on Fox 28 - Emmett vs. Stephens,Feb ,24.0,2018.0, Submission ,Guillotine Choke,
+Ilir Latifi,win, Tyson Pedro, 3, 5:00, UFC 215 - Nunes vs. Shevchenko 2,Sep ,9.0,2017.0, Decision ,Unanimous,Dan Miragliotta
+Ilir Latifi,loss, Ryan Bader, 2, 2:06, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, KO ,Knee,Neil Hall
+Ilir Latifi,win, Gian Villante, 3, 5:00, UFC 196 - McGregor vs. Diaz,Mar ,5.0,2016.0, Decision ,Unanimous,Yves Lavigne
+Ilir Latifi,win, Sean O'Connell, 1, 0:30, UFC Fight Night 81 - Dillashaw vs. Cruz,Jan ,17.0,2016.0, TKO ,Punches,Kevin MacDonald
+Ilir Latifi,win, Hans Stringer, 1, 0:56, UFC Fight Night 72 - Bisping vs. Leites,Jul ,18.0,2015.0, KO ,Punches,Grant Waterman
+Ilir Latifi,loss, Jan Blachowicz, 1, 1:58, UFC Fight Night 53 - Nelson vs. Story,Oct ,4.0,2014.0, TKO ,Kick to the Body and Punches,Grant Waterman
+Ilir Latifi,win, Chris Dempsey, 1, 2:07, UFC Fight Night 46 - McGregor vs. Brandao,Jul ,19.0,2014.0, KO ,Punches,Leon Roberts
+Ilir Latifi,win, Cyrille Diabate, 1, 3:02, UFC Fight Night 37 - Gustafsson vs. Manuwa,Mar ,8.0,2014.0, Submission ,Guillotine Choke,Leon Roberts
+Ilir Latifi,loss, Gegard Mousasi, 3, 5:00, UFC on Fuel TV 9 - Mousasi vs. Latifi,Apr ,6.0,2013.0, Decision ,Unanimous,Marc Goddard
+Ilir Latifi,win, Jorge Oliveira, 3, 5:00, Superior Challenge 8 - Malmo,Oct ,6.0,2012.0, Decision ,Unanimous,
+Ilir Latifi,win, Tony Lopez, 3, 5:00, United Glory - 2012 Glory World Series,May ,26.0,2012.0, Decision ,Unanimous,
+Ilir Latifi,win, Denis Bogdanov, 1, 0:00, United Glory 15 - 2012 Glory World Series,Mar ,23.0,2012.0, Submission ,Keylock,
+Ilir Latifi,loss, Emanuel Newton, 3, 5:00, SF 17 - Horwich vs. Rosholt 2,Jul ,15.0,2011.0, Decision ,Unanimous,Jason Stafin
+Ilir Latifi,win, Matteo Minonzio, 1, 4:29, SHC 2 - Battle For The Belt,Apr ,10.0,2010.0, TKO ,Head Kick,
+Ilir Latifi,loss, Tatsuya Mizuno, 3, 0:15, ROTK - Rumble of the Kings 4,Nov ,20.0,2009.0, TKO ,Knee and Punches,Robert Sundel
+Ilir Latifi,win, Darko Krbanjevic, 1, 1:43, ROTK - Rumble of the Kings 3,May ,22.0,2009.0, Submission ,Keylock,
+Ilir Latifi,win, Luis Pinho, 1, 1:20, ROTK - Rumble of the Kings 2,Feb ,27.0,2009.0, TKO ,Submission to Punches,
+Ilir Latifi,win, Roman Mihocka, 2, 1:55, Superior Challenge 2 - Resurrection,Oct ,25.0,2008.0, KO ,Punches,
+Ilir Latifi,NC, Blagoy Ivanov, 1, 0:55, RPC 2 - Real Pain Challenge 2,May ,17.0,2008.0, No Contest ,Ring Broke,
+Ilir Latifi,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Ilir Latifi,win, Christian Colombo, 1, N/A, Adrenaline 3 - Evolution,Sep ,6.0,2008.0, Submission ,North-South Choke,
+Jan Blachowicz,loss, Thiago Santos,3, 0:39, UFC Fight Night 145 - Blachowicz vs. Santos,Feb ,23.0,2019.0, TKO ,Punches,Herb
+Jan Blachowicz,win, Nikita Krylov,2, 2:41, UFC Fight Night 136 - Hunt vs. Oleynik,Sep ,15.0,2018.0, Submission ,Arm-Triangle Choke,Marc Goddard
+Jan Blachowicz,win, Jimi Manuwa,3, 5:00, UFC Fight Night 127 - Werdum vs. Volkov,Mar ,17.0,2018.0, Decision ,Unanimous,Leon Roberts
+Jan Blachowicz,win, Jared Cannonier,3, 5:00, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, Decision ,Unanimous,Herb Dean
+Jan Blachowicz,win, Devin Clark,2, 3:02, UFC Fight Night 118 - Cerrone vs. Till,Oct ,21.0,2017.0, Submission ,Rear-Naked Choke,Marc Goddard
+Jan Blachowicz,loss, Patrick Cummins,3, 5:00, UFC 210 - Cormier vs. Johnson 2,Apr ,8.0,2017.0, Decision ,Majority,John McCarthy
+Jan Blachowicz,loss, Alexander Gustafsson,3, 5:00, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, Decision ,Unanimous,Marc Goddard
+Jan Blachowicz,win, Igor Pokrajac,3, 5:00, UFC Fight Night 86 - Rothwell vs. Dos Santos,Apr ,10.0,2016.0, Decision ,Unanimous,Leon Roberts
+Jan Blachowicz,loss, Corey Anderson,3, 5:00, UFC 191 - Johnson vs. Dodson 2,Sep ,5.0,2015.0, Decision ,Unanimous,Herb Dean
+Jan Blachowicz,loss, Jimi Manuwa,3, 5:00, UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Apr ,11.0,2015.0, Decision ,Unanimous,Marc Goddard
+Jan Blachowicz,win, Ilir Latifi,1, 1:58, UFC Fight Night 53 - Nelson vs. Story,Oct ,4.0,2014.0, TKO ,Kick to the Body and Punches,Grant Waterman
+Jan Blachowicz,win, Goran Reljic,3, 5:00, KSW 22 - Pride Time,Mar ,16.0,2013.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Houston Alexander,3, 5:00, KSW 20 - Fighting Symphony,Sep ,15.0,2012.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Mario Miranda,3, 5:00, KSW 18 - Unfinished Sympathy,Feb ,25.0,2012.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Rameau Thierry Sokoudjou,3, 5:00, KSW 17 - Revenge,Nov ,26.0,2011.0, Decision ,Unanimous,Piotr Baginski
+Jan Blachowicz,win, Toni Valtonen,2, 1:23, KSW 16 - Konfrontacja,May ,21.0,2011.0, Submission ,Rear-Naked Choke,Tomasz Bronder
+Jan Blachowicz,loss, Rameau Thierry Sokoudjou,2, 5:00, KSW 15 - Konfrontacja,Mar ,19.0,2011.0, TKO ,Retirement,Tomasz Bronder
+Jan Blachowicz,win, Daniel Tabera,2, 4:19, KSW 14 - Judgment Day,Sep ,18.0,2010.0, TKO ,Corner Stoppage,Tomasz Bronder
+Jan Blachowicz,win, Nikolai Onikienko,2, 2:32, WAFC - World Absolute FC,Jun ,24.0,2010.0, Submission ,Rear-Naked Choke,
+Jan Blachowicz,win, Wojciech Orlowski,1, 1:37, KSW 13 - Kumite,May ,7.0,2010.0, Submission ,Rear-Naked Choke,Robert Kostecki
+Jan Blachowicz,win, Julio Cezar de Lima,1, 3:40, KSW 13 - Kumite,May ,7.0,2010.0, KO ,Punch,Robert Kostecki
+Jan Blachowicz,win, Maro Perak,2, 1:51, KSW 10 - Dekalog,Dec ,12.0,2008.0, Submission ,Rear-Naked Choke,Robert Kostecki
+Jan Blachowicz,win, Christian M'Pumbu,2, 3:12, KSW - Extra,Sep ,13.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Aziz Karaoglu,1, 4:13, KSW 9 - Konfrontacja,May ,9.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Antoni Chmielewski,2, 2:54, KSW 9 - Konfrontacja,May ,9.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Martin Zawada,2, 5:00, KSW 9 - Konfrontacja,May ,9.0,2008.0, Decision ,Unanimous,Robert Kostecki
+Jan Blachowicz,loss, Andre Fyeet,1, 1:57, KSW 8 - Konfrontacja,Nov ,10.0,2007.0, Submission ,Kimura,Robert Kostecki
+Jan Blachowicz,win, Daniel Dowda,1, 1:35, KSW - Elimination,Sep ,15.0,2007.0, TKO ,Punches,Robert Kostecki
+Jan Blachowicz,win, Pawel Gasinski,1, 2:36, KSW - Elimination,Sep ,15.0,2007.0, TKO ,Punches,Robert Kostecki
+Jan Blachowicz,win, Sebastian Olchawa,2, 5:00, KSW - Elimination,Sep ,15.0,2007.0, Decision ,Unanimous,Robert Kostecki
+Jan Blachowicz,loss, Marcin Krysztofiak,2, 5:00, FCP 3 - Khalidov vs. Troeng,Feb ,25.0,2007.0, Decision ,Unanimous,
+Jon Jones,win, Anthony Smith,5, 5:00, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Alexander Gustafsson,3, 2:02, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, KO ,Punches,Mike Beltran
+Jon Jones,NC, Daniel Cormier,3, 3:01, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, No Contest ,Overturned by CSAC,John McCarthy
+Jon Jones,win, Ovince St. Preux,5, 5:00, UFC 197 - Jones vs. St. Preux,Apr ,23.0,2016.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Daniel Cormier,5, 5:00, UFC 182 - Jones vs. Cormier,Jan ,3.0,2015.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Glover Teixeira,5, 5:00, UFC 172 - Jones vs. Teixeira,Apr ,26.0,2014.0, Decision ,Unanimous,Dan Miragliotta
+Jon Jones,win, Alexander Gustafsson,5, 5:00, UFC 165 - Jones vs. Gustafsson,Sep ,21.0,2013.0, Decision ,Unanimous,John McCarthy
+Jon Jones,win, Chael Sonnen,1, 4:33, UFC 159 - Jones vs. Sonnen,Apr ,27.0,2013.0, TKO ,Elbows and Punches,Keith Peterson
+Jon Jones,win, Vitor Belfort,4, 0:54, UFC 152 - Jones vs. Belfort,Sep ,22.0,2012.0, Submission ,Keylock,John McCarthy
+Jon Jones,win, Rashad Evans,5, 5:00, UFC 145 - Jones vs. Evans,Apr ,21.0,2012.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Lyoto Machida,2, 4:26, UFC 140 - Jones vs. Machida,Dec ,10.0,2011.0, Technical Submission ,Guillotine Choke,John McCarthy
+Jon Jones,win, Quinton Jackson,4, 1:14, UFC 135 - Jones vs. Rampage,Sep ,24.0,2011.0, Submission ,Rear-Naked Choke,Josh Rosenthal
+Jon Jones,win, Mauricio Rua,3, 2:37, UFC 128 - Shogun vs. Jones,Mar ,19.0,2011.0, TKO ,Punches and Knees,Herb Dean
+Jon Jones,win, Ryan Bader,2, 4:20, UFC 126 - Silva vs. Belfort,Feb ,5.0,2011.0, Submission ,Guillotine Choke,Herb Dean
+Jon Jones,win, Vladimir Matyushenko,1, 1:52, UFC Live 2 - Jones vs. Matyushenko,Aug ,1.0,2010.0, TKO ,Elbows,Herb Dean
+Jon Jones,win, Brandon Vera,1, 3:19, UFC Live 1 - Vera vs. Jones,Mar ,21.0,2010.0, TKO ,Elbows and Punches,Herb Dean
+Jon Jones,loss, Matt Hamill,1, 4:14, UFC - The Ultimate Fighter 10 Finale,Dec ,5.0,2009.0, Disqualification ,Illegal Elbows,Steve Mazzagatti
+Jon Jones,win, Jake O'Brien,2, 2:43, UFC 100 - Lesnar vs. Mir 2,Jul ,11.0,2009.0, Submission ,Guillotine Choke,Yves Lavigne
+Jon Jones,win, Stephan Bonnar,3, 5:00, UFC 94 - St. Pierre vs. Penn 2,Jan ,31.0,2009.0, Decision ,Unanimous,Steve Mazzagatti
+Jon Jones,win, Andre Gusmao,3, 5:00, UFC 87 - Seek and Destroy,Aug ,9.0,2008.0, Decision ,Unanimous,Daryl Guthmiller
+Jon Jones,win, Moyses Gabin,2, 1:58, BCX 5 - Battle Cage Xtreme 5,Jul ,12.0,2008.0, TKO ,Punches,Kevin Mulhall
+Jon Jones,win, Parker Porter,1, 0:36, WCF - World Championship Fighting 3,Jun ,20.0,2008.0, KO ,Punch,
+Jon Jones,win, Ryan Verrett,1, 0:14, USFL - War in the Woods 3,May ,9.0,2008.0, TKO ,Punches,
+Jon Jones,win, Anthony Pina,1, 1:15, ICE Fighter - ICE Fighter,Apr ,25.0,2008.0, Submission ,Guillotine Choke,
+Jon Jones,win, Carlos    Eduardo,3, 0:24, BCX 4 - Battle Cage Xtreme 4,Apr ,19.0,2008.0, KO ,Punches,Kevin Mulhall
+Jon Jones,win, Brad Bernard,1, 1:32, FFP - Untamed 20,Apr ,12.0,2008.0, TKO ,Punches,
+Aleksandar Rakic,win, Jimi Manuwa,1, 0:42, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, KO ,Head Kick,Kevin Sataki
+Aleksandar Rakic,win, Devin Clark,1, 4:05, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, TKO ,Punches,Brian Beauchamp
+Aleksandar Rakic,win, Justin Ledet,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Aleksandar Rakic,win, Francimar Barroso,3, 5:00, UFC Fight Night 115 - Volkov vs. Struve,Sep ,2.0,2017.0, Decision ,Unanimous,Marc Goddard
+Aleksandar Rakic,win, Sergio Souza,1, N/A, AFC - Austrian Fight Challenge 5,Mar ,4.0,2017.0, TKO ,Punches,Grant Waterman
+Aleksandar Rakic,win, Martin Batur,1, 0:26, AFC - Austrian Fight Challenge 1,Jun ,20.0,2015.0, KO ,Punch,Jan Vobornik
+Aleksandar Rakic,win, Marcin Prachnio,3, 3:00, FFC - Final Fight Championship 16,Dec ,6.0,2014.0, TKO ,Punches,Zlatko Klaric
+Aleksandar Rakic,win, Norbert Peter,1, 4:57, HG - Heimgala 2,Sep ,13.0,2014.0, TKO ,Punches,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Peter Rozmaring,1, 1:32, Vendetta - Rookies 2,Jul ,6.0,2013.0, Submission ,North-South Choke,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Laszlo Czene,1, 0:00, WFC - Challengers 3,Jun ,3.0,2012.0, KO ,Head Kick,
+Aleksandar Rakic,win, Richard Longhimo,2, 4:30, Iron Fist - Vendetta 3,Mar ,18.0,2012.0, TKO ,Punches,
+Aleksandar Rakic,win, Carsten Lorenz,1, 1:42, FFA - New Talents 15,Feb ,4.0,2012.0, TKO ,Punches,Reiko Bertz
+Aleksandar Rakic,loss, Christian Radke,1, 4:34, RTC - Rock the Cage 2,Oct ,15.0,2011.0, Submission ,Guillotine Choke,
+Aleksandar Rakic,win, Jimi Manuwa,1, 0:42, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, KO ,Head Kick,Kevin Sataki
+Aleksandar Rakic,win, Devin Clark,1, 4:05, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, TKO ,Punches,Brian Beauchamp
+Aleksandar Rakic,win, Justin Ledet,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Aleksandar Rakic,win, Francimar Barroso,3, 5:00, UFC Fight Night 115 - Volkov vs. Struve,Sep ,2.0,2017.0, Decision ,Unanimous,Marc Goddard
+Aleksandar Rakic,win, Sergio Souza,1, N/A, AFC - Austrian Fight Challenge 5,Mar ,4.0,2017.0, TKO ,Punches,Grant Waterman
+Aleksandar Rakic,win, Martin Batur,1, 0:26, AFC - Austrian Fight Challenge 1,Jun ,20.0,2015.0, KO ,Punch,Jan Vobornik
+Aleksandar Rakic,win, Marcin Prachnio,3, 3:00, FFC - Final Fight Championship 16,Dec ,6.0,2014.0, TKO ,Punches,Zlatko Klaric
+Aleksandar Rakic,win, Norbert Peter,1, 4:57, HG - Heimgala 2,Sep ,13.0,2014.0, TKO ,Punches,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Peter Rozmaring,1, 1:32, Vendetta - Rookies 2,Jul ,6.0,2013.0, Submission ,North-South Choke,Ceyrhan Bayrakci
+Aleksandar Rakic,win, Laszlo Czene,1, 0:00, WFC - Challengers 3,Jun ,3.0,2012.0, KO ,Head Kick,
+Aleksandar Rakic,win, Richard Longhimo,2, 4:30, Iron Fist - Vendetta 3,Mar ,18.0,2012.0, TKO ,Punches,
+Aleksandar Rakic,win, Carsten Lorenz,1, 1:42, FFA - New Talents 15,Feb ,4.0,2012.0, TKO ,Punches,Reiko Bertz
+Aleksandar Rakic,loss, Christian Radke,1, 4:34, RTC - Rock the Cage 2,Oct ,15.0,2011.0, Submission ,Guillotine Choke,
+Alexander Gustafsson,loss, Anthony Smith,4, 2:38, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, Submission ,Rear-Naked Choke,Marc Goddard
+Alexander Gustafsson,loss, Jon Jones,3, 2:02, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, KO ,Punches,Mike Beltran
+Alexander Gustafsson,win, Glover Teixeira,5, 1:07, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punches,Marc Goddard
+Alexander Gustafsson,win, Jan Blachowicz,3, 5:00, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, Decision ,Unanimous,Marc Goddard
+Alexander Gustafsson,loss, Daniel Cormier,5, 5:00, UFC 192 - Cormier vs. Gustafsson,Oct ,3.0,2015.0, Decision ,Split,Herb Dean
+Alexander Gustafsson,loss, Anthony Johnson,1, 2:15, UFC on Fox 14 - Gustafsson vs. Johnson,Jan ,24.0,2015.0, TKO ,Punches,Marc Goddard
+Alexander Gustafsson,win, Jimi Manuwa,2, 1:18, UFC Fight Night 37 - Gustafsson vs. Manuwa,Mar ,8.0,2014.0, TKO ,Knee and Punches,Marc Goddard
+Alexander Gustafsson,loss, Jon Jones,5, 5:00, UFC 165 - Jones vs. Gustafsson,Sep ,21.0,2013.0, Decision ,Unanimous,John McCarthy
+Alexander Gustafsson,win, Mauricio Rua,3, 5:00, UFC on Fox 5 - Henderson vs. Diaz,Dec ,8.0,2012.0, Decision ,Unanimous,Dan Miragliotta
+Alexander Gustafsson,win, Thiago Silva,3, 5:00, UFC on Fuel TV 2 - Gustafsson vs. Silva,Apr ,14.0,2012.0, Decision ,Unanimous,Leon Roberts
+Alexander Gustafsson,win, Vladimir Matyushenko,1, 2:13, UFC 141 - Lesnar vs. Overeem,Dec ,30.0,2011.0, TKO ,Punches,Yves Lavigne
+Alexander Gustafsson,win, Matt Hamill,2, 3:41, UFC 133 - Evans vs. Ortiz 2,Aug ,6.0,2011.0, TKO ,Punches and Elbows,Dan Miragliotta
+Alexander Gustafsson,win, James Te Huna,1, 4:27, UFC 127 - Penn vs. Fitch,Feb ,27.0,2011.0, Submission ,Rear-Naked Choke,Marc Goddard
+Alexander Gustafsson,win, Cyrille Diabate,2, 2:41, UFC 120 - Bisping vs. Akiyama,Oct ,16.0,2010.0, Submission ,Rear-Naked Choke,Leon Roberts
+Alexander Gustafsson,loss, Phil Davis,1, 4:55, UFC 112 - Invincible,Apr ,10.0,2010.0, Submission ,Anaconda Choke,Dan Miragliotta
+Alexander Gustafsson,win, Jared Hamman,1, 0:41, UFC 105 - Couture vs. Vera,Nov ,14.0,2009.0, KO ,Punches,Kevin Mulhall
+Alexander Gustafsson,win, Vladimir Shemarov,1, 2:37, Superior Challenge 3 - Untamed,May ,30.0,2009.0, KO ,Punches,
+Alexander Gustafsson,win, Pedro Quetglas,1, 2:08, The Zone FC 3 - Shockwave,Nov ,8.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Krzysztof Kulak,2, 5:00, KSW - Extra,Sep ,13.0,2008.0, Decision ,Unanimous,Robert Kostecki
+Alexander Gustafsson,win, Matteo Minonzio,1, 3:52, The Zone FC 2 - Showdown,May ,10.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Florian Muller,2, 3:44, FS - Fite Selektor,Mar ,13.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Farbod Fadami,1, 2:31, The Zone FC 1 - The Zone,Feb ,9.0,2008.0, TKO ,Punches,
+Alexander Gustafsson,win, Mikael Haydari,1, 0:50, FF 9 - FinnFight 9,Dec ,15.0,2007.0, TKO ,Punches,
+Alexander Gustafsson,win, Saku Heikkola,2, 3:42, Shooto Finland - Chicago Collision 3,Nov ,17.0,2007.0, Submission ,Rear-Naked Choke,
+Anthony Smith,win, Alexander Gustafsson,4, 2:38, UFC Fight Night 153 - Gustafsson vs. Smith,Jun ,1.0,2019.0, Submission ,Rear-Naked Choke,Marc Goddard
+Anthony Smith,loss, Jon Jones,5, 5:00, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, Decision ,Unanimous,Herb Dean
+Anthony Smith,win, Volkan Oezdemir,3, 4:26, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Rear-Naked Choke,Yves Lavigne
+Anthony Smith,win, Mauricio Rua,1, 1:29, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, KO ,Elbow,Marc Goddard
+Anthony Smith,win, Rashad Evans,1, 0:53, UFC 225 - Whittaker vs. Romero 2,Jun ,9.0,2018.0, KO ,Knee,Dan Miragliotta
+Anthony Smith,loss, Thiago Santos,2, 1:03, UFC Fight Night 125 - Machida vs. Anders,Feb ,3.0,2018.0, TKO ,Kick to the Body and Punches,Marc Goddard
+Anthony Smith,win, Hector Lombard,3, 2:33, UFC Fight Night 116 - Rockhold vs. Branch,Sep ,16.0,2017.0, KO ,Punch,Dan Miragliotta
+Anthony Smith,win, Andrew Sanchez,3, 3:52, UFC on Fox 24 - Johnson vs. Reis,Apr ,15.0,2017.0, KO ,Head Kick and Punches,Keith Peterson
+Anthony Smith,win, Elvis Mutapcic,2, 3:27, UFC - The Ultimate Fighter 24 Finale,Dec ,3.0,2016.0, TKO ,Elbow and Punches,Mark Smith
+Anthony Smith,loss, Cezar Ferreira,3, 5:00, UFC  - The Ultimate Fighter 23 Finale,Jul ,8.0,2016.0, Decision ,Unanimous,Chris Tognoni
+Anthony Smith,win, Leonardo Guimaraes,3, 5:00, UFC Fight Night 83 - Cerrone vs. Oliveira,Feb ,21.0,2016.0, Decision ,Unanimous,Chip Snider
+Anthony Smith,win, Josh Neer,1, 3:27, VFC - Victory Fighting Championship 47,Jan ,29.0,2016.0, TKO ,Punches,Brandon Pfannenstiel
+Anthony Smith,win, Brock Jardine,1, 3:00, RFA 30 - Smith vs. Jardine,Sep ,18.0,2015.0, TKO ,Punches,Jim Axtell
+Anthony Smith,win, Tim Williams,1, 1:02, CFFC 50 - Smith vs. Williams,Jul ,18.0,2015.0, TKO ,Knee,Keith Peterson
+Anthony Smith,win, Tim Williams,2, 1:15, CFFC 46 - Williams vs. Smith,Feb ,28.0,2015.0, Submission ,Inverted Triangle Choke,James Chappell
+Anthony Smith,win, Andrew Kapel,1, N/A, EB - Beatdown at 4 Bears 12,Nov ,29.0,2014.0, Submission ,Rear-Naked Choke,Bobby Wombacher
+Anthony Smith,win, Brian Green,3, 5:00, Bellator MMA - Bellator 129,Oct ,17.0,2014.0, Decision ,Unanimous,Rob Hinds
+Anthony Smith,win, Victor Moreno,2, 0:59, Bellator MMA - Bellator 117,Apr ,18.0,2014.0, Submission ,Triangle Choke,Bruce Allen
+Anthony Smith,loss, Josh Neer,3, 3:38, VFC - Victory Fighting Championship 41,Dec ,14.0,2013.0, Submission ,Rear-Naked Choke,
+Anthony Smith,loss, Antonio Braga Neto,1, 1:52, UFC on Fuel TV 10 - Nogueira vs. Werdum,Jun ,8.0,2013.0, Submission ,Kneebar,Marc Goddard
+Anthony Smith,loss, Roger Gracie,2, 3:16, Strikeforce - Marquardt vs. Saffiedine,Jan ,12.0,2013.0, Submission ,Arm-Triangle Choke,John McCarthy
+Anthony Smith,win, Lumumba Sayers,1, 3:52, Strikeforce - Rousey vs. Kaufman,Aug ,18.0,2012.0, Submission ,Triangle Choke,Herb Dean
+Anthony Smith,win, Richard White,1, 2:35, Disorderly Conduct 9 - Fireworks,Jun ,30.0,2012.0, TKO ,Punches,
+Anthony Smith,win, Ian Berg,2, 2:01, VFC - Victory Fighting Championship 37,Apr ,13.0,2012.0, Submission ,Arm-Triangle Choke,
+Anthony Smith,loss, Adlan Amagov,1, 2:32, Strikeforce - Challengers 20,Nov ,18.0,2011.0, KO ,Punches,Chris Tognoni
+Anthony Smith,win, Ben Lagman,2, 0:33, Strikeforce - Challengers 17,Jul ,22.0,2011.0, KO ,Punch,Josh Rosenthal
+Anthony Smith,win, Curtis Johnson,1, 3:13, CFC 6 - Slugfest,Jul ,9.0,2011.0, KO ,Punches,
+Anthony Smith,win, Eric Schambari,1, 1:46, C3 Fights - MMA Championship Fights,Jun ,4.0,2011.0, TKO ,Punches,
+Anthony Smith,win, Matt Gabel,1, 1:50, EC - Extreme Challenge 181,Apr ,15.0,2011.0, Submission ,Triangle Choke,
+Anthony Smith,win, Demetrius Richards,2, 2:07, Extreme Challenge - Bad Blood,Feb ,11.0,2011.0, TKO ,Punches,
+Anthony Smith,win, Ben Crowder,1, 1:09, CFC 2 - Season's Beatings,Dec ,17.0,2010.0, KO ,Punch,
+Anthony Smith,loss, Jesse Forbes,2, 1:28, Crowbar MMA - Fall Brawl,Sep ,11.0,2010.0, TKO ,Punches,Daniel Grimestad
+Anthony Smith,win, Logan Clark,2, 2:22, Seconds Out / Vivid MMA - Havoc at the Hyatt 2,Jun ,19.0,2010.0, TKO ,Doctor Stoppage,
+Anthony Smith,win, Lucas St. Claire,1, 3:19, MF  - Max Fights 10,May ,8.0,2010.0, Submission ,Armbar,Jeremy Ryder
+Anthony Smith,win, Mike George,1, 0:22, TriState Cage Fights - Island Warfare,Apr ,17.0,2010.0, KO ,Punch,
+Anthony Smith,loss, Jake Hecht,3, 4:35, VFC 30 - Night of Champions,Feb ,5.0,2010.0, TKO ,Punches,
+Anthony Smith,loss, Mike Pitz,2, 3:21, FCI - Fight Club Inc.,Jul ,25.0,2009.0, TKO ,Submission to Punches,David Smith
+Anthony Smith,loss, Chaun Sims,2, 2:00, FTW - Colorado vs. Nebraska,Mar ,14.0,2009.0, TKO ,Punches,Tom Johnson
+Anthony Smith,loss, Brian Monaghan,1, 0:00, VFC 26 - Onslaught,Feb ,20.0,2009.0, Submission ,Armbar,
+Anthony Smith,win, Rico Washington,1, 0:54, MCS - Minnesota Combat Sports,Jan ,9.0,2009.0, TKO ,Submission to Punches,
+Anthony Smith,loss, Charley Lynch,1, 3:12, Brutaal - Fight Night,Nov ,6.0,2008.0, TKO ,Punches,
+Anthony Smith,win, Chuck Parmelee,2, 1:26, Torment - MMA,Sep ,20.0,2008.0, SubmissionJosh Arney,,
+Anthony Smith,loss, Chuck Parmelee,2, 0:00, TCF - TriState Cage Fights,Jun ,14.0,2008.0, TKO ,Punches,
+Anthony Smith,win, Ricky Duvall,0, N/A, VFC 23 - Validation,May ,9.0,2008.0,,,
+Anthony Smith,win, Jeremy Shepherd,2, 2:13, PP - Pugilistic Productions,Mar ,22.0,2008.0, SubmissionJosh Amey,,
+Anthony Smith,win, Dave Moran,2, 1:19, VFC 22 - Ascension,Feb ,29.0,2008.0, Submission ,Armbar,
+Corey Anderson ,win, Ilir Latifi, 3, 5:00, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, Decision ,Unanimous,Marc Goddard
+Corey Anderson ,win, Glover Teixeira, 3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Corey Anderson ,win, Patrick Cummins, 3, 5:00, UFC Fight Night 128 - Barboza vs. Lee,Apr ,21.0,2018.0, Decision ,Unanimous,Marc Goddard
+Corey Anderson ,loss, Ovince St. Preux, 3, 1:25, UFC 217 - Bisping vs. St. Pierre,Nov ,4.0,2017.0, KO ,Head Kick,Dan Miragliotta
+Corey Anderson ,loss, Jimi Manuwa, 1, 3:05, UFC Fight Night 107 - Manuwa vs. Anderson,Mar ,18.0,2017.0, KO ,Punch,Leon Roberts
+Corey Anderson ,win, Sean O'Connell, 2, 2:36, UFC Fight Night 102 - Lewis vs. Abdurakhimov,Dec ,9.0,2016.0, TKO ,Punches,Todd Anderson
+Corey Anderson ,loss, Mauricio Rua, 3, 5:00, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, Decision ,Split,Mario Yamasaki
+Corey Anderson ,win, Tom Lawlor, 3, 5:00, UFC 196 - McGregor vs. Diaz,Mar ,5.0,2016.0, Decision ,Unanimous,John McCarthy
+Corey Anderson ,win, Fabio Maldonado, 3, 5:00, UFC Fight Night 77 - Belfort vs. Henderson 3,Nov ,7.0,2015.0, Decision ,Unanimous,Herb Dean
+Corey Anderson ,win, Jan Blachowicz, 3, 5:00, UFC 191 - Johnson vs. Dodson 2,Sep ,5.0,2015.0, Decision ,Unanimous,Herb Dean
+Corey Anderson ,loss, Gian Villante, 3, 4:18, UFC on Fox 15 - Machida vs. Rockhold,Apr ,18.0,2015.0, TKO ,Punches,Liam Kerrigan
+Corey Anderson ,win, Justin Jones, 3, 5:00, UFC 181 - Hendricks vs. Lawler 2,Dec ,6.0,2014.0, Decision ,Unanimous,John McCarthy
+Corey Anderson ,win, Matt Van Buren, 1, 1:01, UFC - The Ultimate Fighter 19 Finale,Jul ,6.0,2014.0, TKO ,Punches,Mario Yamasaki
+Corey Anderson ,win, Stephen Flanagan, 1, 3:03, MMA Xtreme - Fists Will Fly,Aug ,24.0,2013.0, TKO ,Punches,Gary Copeland
+Corey Anderson ,win, Myron Dennis, 5, 5:00, Xtreme Fighting League - Vengeance,Jun ,28.0,2013.0, Decision ,Unanimous,
+Corey Anderson ,win, J.R. Briones, 1, 3:01, NAFC - Battleground,Mar ,29.0,2013.0, TKO ,Punches,Al Wichgers
+Corey Anderson ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Corey Anderson ,win, Patrick Walsh,3,5:00,UFC - The Ultimate Fighter Season 19 Semifinals Day 1,Nov ,21.0,2013.0,Decision ,Unanimous,Chris Tognoni
+Corey Anderson ,win, Josh Clark,2,5:00,UFC - The Ultimate Fighter Season 19 Quarterfinals Day 4,Nov ,5.0,2013.0,Decision ,Unanimous,Chris Tognoni
+Corey Anderson ,win, Kelly Anundson, 2, 5:00, UFC - The Ultimate Fighter Season 19 Elimination Fights,Oct ,16.0,2013.0, Decision ,Unanimous,Kim Winslow
+Daniel Cormier,win, Derrick Lewis,2, 2:14, UFC 230 - Cormier vs. Lewis,Nov ,3.0,2018.0, Submission ,Rear-Naked Choke,Herb Dean
+Daniel Cormier,win, Stipe Miocic,1, 4:33, UFC 226 - Miocic vs. Cormier,Jul ,7.0,2018.0, KO ,Punches,Marc Goddard
+Daniel Cormier,win, Volkan Oezdemir,2, 2:00, UFC 220 - Miocic vs. Ngannou,Jan ,20.0,2018.0, TKO ,Punches,Kevin MacDonald
+Daniel Cormier,NC, Jon Jones,3, 3:01, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, No Contest ,Overturned by CSAC,John McCarthy
+Daniel Cormier,win, Anthony Johnson,2, 3:37, UFC 210 - Cormier vs. Johnson 2,Apr ,8.0,2017.0, Submission ,Rear-Naked Choke,John McCarthy
+Daniel Cormier,win, Anderson Silva,3, 5:00, UFC 200 - Tate vs. Nunes,Jul ,9.0,2016.0, Decision ,Unanimous,John McCarthy
+Daniel Cormier,win, Alexander Gustafsson,5, 5:00, UFC 192 - Cormier vs. Gustafsson,Oct ,3.0,2015.0, Decision ,Split,Herb Dean
+Daniel Cormier,win, Anthony Johnson,3, 2:39, UFC 187 - Johnson vs. Cormier,May ,23.0,2015.0, Submission ,Rear-Naked Choke,John McCarthy
+Daniel Cormier,loss, Jon Jones,5, 5:00, UFC 182 - Jones vs. Cormier,Jan ,3.0,2015.0, Decision ,Unanimous,Herb Dean
+Daniel Cormier,win, Dan Henderson,3, 3:53, UFC 173 - Barao vs. Dillashaw,May ,24.0,2014.0, Technical Submission ,Rear-Naked Choke,Yves Lavigne
+Daniel Cormier,win, Patrick Cummins,1, 1:19, UFC 170 - Rousey vs. McMann,Feb ,22.0,2014.0, TKO ,Punches,Mario Yamasaki
+Daniel Cormier,win, Roy Nelson,3, 5:00, UFC 166 - Velasquez vs. Dos Santos 3,Oct ,19.0,2013.0, Decision ,Unanimous,Jacob Montalvo
+Daniel Cormier,win, Frank Mir,3, 5:00, UFC on Fox 7 - Henderson vs. Melendez,Apr ,20.0,2013.0, Decision ,Unanimous,Herb Dean
+Daniel Cormier,win, Dion Staring,2, 4:02, Strikeforce - Marquardt vs. Saffiedine,Jan ,12.0,2013.0, TKO ,Punches,John McCarthy
+Daniel Cormier,win, Josh Barnett,5, 5:00, Strikeforce - Barnett vs. Cormier,May ,19.0,2012.0, Decision ,Unanimous,Josh Rosenthal
+Daniel Cormier,win, Antonio Silva,1, 3:56, Strikeforce - Barnett vs. Kharitonov,Sep ,10.0,2011.0, KO ,Punches,Greg Franklin
+Daniel Cormier,win, Jeff Monson,3, 5:00, Strikeforce - Overeem vs. Werdum,Jun ,18.0,2011.0, Decision ,Unanimous,Leon Roberts
+Daniel Cormier,win, Devin Cole,3, 5:00, Strikeforce - Challengers 13,Jan ,7.0,2011.0, Decision ,Unanimous,Greg Franklin
+Daniel Cormier,win, Soa Palelei,1, 0:00, XMMA - Xtreme MMA 3,Nov ,5.0,2010.0, TKO ,Submission to Punches,
+Daniel Cormier,win, Jason Riley,1, 1:02, Strikeforce - Houston,Aug ,21.0,2010.0, TKO ,Submission to Punches,Kerry Hatley
+Daniel Cormier,win, Tony Johnson,1, 2:27, KOTC - Imminent Danger,Aug ,13.0,2010.0, Submission ,Rear-Naked Choke,Cecil Peoples
+Daniel Cormier,win, Lucas Browne,1, 4:35, XMMA 2 - ANZ vs. USA,Jul ,31.0,2010.0, TKO ,Punches,Kostas Papaioannou
+Daniel Cormier,win, John Devine,1, 1:09, Strikeforce - Challengers 7,Mar ,26.0,2010.0, KO ,Punch,
+Daniel Cormier,win, Gary Frazier,2, 3:39, Strikeforce - Challengers 3,Sep ,25.0,2009.0, TKO ,Punches,Kevin Nix
+Dominick Reyes ,win, Volkan Oezdemir, 3, 5:00, UFC Fight Night 147 - Till vs. Masvidal,Mar ,16.0,2019.0, Decision ,Split,Leon Roberts
+Dominick Reyes ,win, Ovince St. Preux, 3, 5:00, UFC 229 - Nurmagomedov vs. McGregor,Oct ,6.0,2018.0, Decision ,Unanimous,Dan Miragliotta
+Dominick Reyes ,win, Jared Cannonier, 1, 2:55, UFC Fight Night 129 - Maia vs. Usman,May ,19.0,2018.0, TKO ,Punches,Marc Goddard
+Dominick Reyes ,win, Jeremy Kimball, 1, 3:39, UFC 218 - Holloway vs. Aldo 2,Dec ,2.0,2017.0, Submission ,Rear-Naked Choke,Bobby Wombacher
+Dominick Reyes ,win, Joachim Christensen, 1, 0:29, UFC Fight Night 112 - Chiesa vs. Lee,Jun ,25.0,2017.0, TKO ,Punches,Gary Ritter
+Dominick Reyes ,win, Jordan Powell, 1, 0:53, LFA 13 - Millender vs. Holland,Jun ,2.0,2017.0, KO ,Head Kick,Mike Beltran
+Dominick Reyes ,win, Marcus Govan, 1, 0:27, HFC 32 - Hoosier Fight Club 32,Feb ,11.0,2017.0, KO ,Head Kick,
+Dominick Reyes ,win, Tyler Smith, 1, 1:35, KOTC - Martial Law,Sep ,18.0,2016.0, TKO ,Punches,Michael Bell
+Dominick Reyes ,win, Kelly Gray, 3, 5:00, KOTC - Sinister Intentions,Oct ,17.0,2015.0, Decision ,Unanimous,Jason Herzog
+Dominick Reyes ,win, Jessie Glass, 1, 0:55, Gladiator Challenge - Carnage,Apr ,3.0,2015.0, Submission ,Guillotine Choke,Raul Porrata
+Dominick Reyes ,win, Jose Rivas Jr., 1, 3:23, KOTC - Fisticuffs,Dec ,4.0,2014.0, TKO ,Punches,
+Dominick Reyes ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Dominick Reyes ,win, Shane Merveau, 1, :09, U of MMA - Fight Night 8,Aug ,24.0,2014.0, TKO ,Punches,
+Dominick Reyes ,win, Osman Diaz, 1, :27, U of MMA - Fight Night 7,Jun ,1.0,2014.0, SubmissionN/A,,
+Dominick Reyes ,win, Bruno Casillas, 3, 2:00, U of MMA - Fight Night 6,Mar ,30.0,2014.0, Decision ,Unanimous,
+Dominick Reyes ,win, Tywone Cotton, 1, 1:20, Spar Star Promotions - Who's Next,Jan ,25.0,2014.0, KO ,Punch,
+Dominick Reyes ,win, Renato Gudino, 1, 1:22, U of MMA - Fight Night 4,Dec ,8.0,2013.0, SubmissionN/A,,
+Glover Teixeir,win, Ion Cutelaba,2, 3:37, UFC Fight Night 150 - Jacare vs. Hermansson,Apr ,27.0,2019.0, Submission ,Rear-Naked Choke,Alan Abeles
+Glover Teixeir,win, Karl Roberson,1, 3:21, UFC Fight Night 143 - Cejudo vs. Dillashaw,Jan ,19.0,2019.0, Submission ,Arm-Triangle Choke,Dan Miragliotta
+Glover Teixeir,loss, Corey Anderson,3, 5:00, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, Decision ,Unanimous,Leon Roberts
+Glover Teixeir,win, Misha Cirkunov,1, 2:45, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, TKO ,Punches,Dan Miragliotta
+Glover Teixeir,loss, Alexander Gustafsson,5, 1:07, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punches,Marc Goddard
+Glover Teixeir,win, Jared Cannonier,3, 5:00, UFC 208 - Holm vs. De Randamie,Feb ,11.0,2017.0, Decision ,Unanimous,Kevin MacDonald
+Glover Teixeir,loss, Anthony Johnson,1, 0:13, UFC 202 - Diaz vs. McGregor 2,Aug ,20.0,2016.0, KO ,Punch,Dan Miragliotta
+Glover Teixeir,win, Rashad Evans,1, 1:48, UFC on Fox 19 - Teixeira vs. Evans,Apr ,16.0,2016.0, KO ,Punches,Herb Dean
+Glover Teixeir,win, Patrick Cummins,2, 1:12, UFC Fight Night 77 - Belfort vs. Henderson 3,Nov ,7.0,2015.0, TKO ,Punches,Herb Dean
+Glover Teixeir,win, Ovince St. Preux,3, 3:10, UFC Fight Night 73 - Teixeira vs. St. Preux,Aug ,8.0,2015.0, Technical Submission ,Rear-Naked Choke,John McCarthy
+Glover Teixeir,loss, Phil Davis,3, 5:00, UFC 179 - Aldo vs. Mendes 2,Oct ,25.0,2014.0, Decision ,Unanimous,Mario Yamasaki
+Glover Teixeir,loss, Jon Jones,5, 5:00, UFC 172 - Jones vs. Teixeira,Apr ,26.0,2014.0, Decision ,Unanimous,Dan Miragliotta
+Glover Teixeir,win, Ryan Bader,1, 2:55, UFC Fight Night 28 - Teixeira vs. Bader,Sep ,4.0,2013.0, TKO ,Punches,Herb Dean
+Glover Teixeir,win, James Te Huna,1, 2:38, UFC 160 - Velasquez vs. Bigfoot 2,May ,25.0,2013.0, Submission ,Guillotine Choke,Herb Dean
+Glover Teixeir,win, Quinton Jackson,3, 5:00, UFC on Fox 6 - Johnson vs. Dodson,Jan ,26.0,2013.0, Decision ,Unanimous,Herb Dean
+Glover Teixeir,win, Fabio Maldonado,2, 5:00, UFC 153 - Silva vs. Bonnar,Oct ,13.0,2012.0, TKO ,Doctor Stoppage,Mario Yamasaki
+Glover Teixeir,win, Kyle Kingsbury,1, 1:53, UFC 146 - Dos Santos vs. Mir,May ,26.0,2012.0, Submission ,Arm-Triangle Choke,Steve Mazzagatti
+Glover Teixeir,win, Ricco Rodriguez,1, 1:58, MMAAD - MMA Against Dengue,Nov ,27.0,2011.0, TKO ,Submission to Punches,
+Glover Teixeir,win, Marvin Eastman,1, 4:00, Shooto Brazil 25 - Fight for BOPE,Aug ,25.0,2011.0, KO ,Punch,Cacau
+Glover Teixeir,win, Antonio Mendes,1, 4:06, Shooto Brazil - Shooto Brazil 24,Aug ,5.0,2011.0, Submission ,Rear-Naked Choke,Marlon Sandro
+Glover Teixeir,win, Marcio Cruz,2, 4:21, Fight Club 1 - Brazilian Stars,Jul ,20.0,2011.0, TKO ,Punches,Artur Mariano
+Glover Teixeir,win, Simao Melo da Silva,1, 1:49, Shooto Brazil - Shooto Brazil 23,Jun ,4.0,2011.0, KO ,Punches,
+Glover Teixeir,win, Daniel Tabera,3, 5:00, Bitetti Combat 8 - 100 Years of Corinthians,Dec ,4.0,2010.0, Decision ,Unanimous,
+Glover Teixeir,win, Marko Peselj,1, 2:55, Impact FC 2 - The Uprising: Sydney,Jul ,18.0,2010.0, TKO ,Punches,John McCarthy
+Glover Teixeir,win, Tiago Monaco Tosato,1, 1:27, BC - Bitetti Combat 7,May ,28.0,2010.0, TKO ,Punches,Mario Yamasaki
+Glover Teixeir,win, Joaquim Ferreira,2, 1:30, BC - Bitetti Combat 6,Feb ,25.0,2010.0, TKO ,Corner Stoppage,Mario Yamasaki
+Glover Teixeir,win, Leonardo Nascimento Lucio,1, 3:11, BC - Bitetti Combat 4,Sep ,12.0,2009.0, Technical Submission ,Guillotine Choke,John McCarthy
+Glover Teixeir,win, Buckley Acosta,1, 1:00, PFC 7 - Palace Fighting Championship 7,Mar ,20.0,2008.0, TKO ,Punches,
+Glover Teixeir,win, Jorge Oliveira,1,0:05,"PFC 6 -No Retreat,No Surrender",Jan ,17.0,2008.0,KO ,Punches,
+Glover Teixeir,win, Rameau Thierry Sokoudjou,1, 1:41, WEC 24 - Full Force,Oct ,12.0,2006.0, KO ,Punches,Jon Schorle
+Glover Teixeir,win, Jack Morrison,1, 1:27, WEC 22 - The Hitman,Jul ,28.0,2006.0, Submission ,Rear-Naked Choke,Nathan Gullian
+Glover Teixeir,win, Carlton Jones,1, 1:57, WEC 20 - Cinco de Mayhem,May ,5.0,2006.0, TKO ,Punches,Jon Schorle
+Glover Teixeir,loss, Ed Herman,3, 5:00, SF 9 - Respect,Mar ,26.0,2005.0, Decision ,Unanimous,
+Glover Teixeir,win, Justin Ellison,1, N/A, SF 5 - Stadium,Aug ,28.0,2004.0, TKO ,Punches,
+Glover Teixeir,win, Matt Horwich,3, 5:00, SF 3 - Dome,Apr ,17.0,2004.0, Decision ,Unanimous,
+Glover Teixeir,loss, Eric Schwartz,2, 3:33, WEC 3 - All or Nothing,Jun ,7.0,2002.0, TKO ,Punches and Elbows,
+Ilir Latifi,loss, Corey Anderson, 3, 5:00, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, Decision ,Unanimous,Marc Goddard
+Ilir Latifi,win, Ovince St. Preux, 1, 3:48, UFC on Fox 28 - Emmett vs. Stephens,Feb ,24.0,2018.0, Submission ,Guillotine Choke,
+Ilir Latifi,win, Tyson Pedro, 3, 5:00, UFC 215 - Nunes vs. Shevchenko 2,Sep ,9.0,2017.0, Decision ,Unanimous,Dan Miragliotta
+Ilir Latifi,loss, Ryan Bader, 2, 2:06, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, KO ,Knee,Neil Hall
+Ilir Latifi,win, Gian Villante, 3, 5:00, UFC 196 - McGregor vs. Diaz,Mar ,5.0,2016.0, Decision ,Unanimous,Yves Lavigne
+Ilir Latifi,win, Sean O'Connell, 1, 0:30, UFC Fight Night 81 - Dillashaw vs. Cruz,Jan ,17.0,2016.0, TKO ,Punches,Kevin MacDonald
+Ilir Latifi,win, Hans Stringer, 1, 0:56, UFC Fight Night 72 - Bisping vs. Leites,Jul ,18.0,2015.0, KO ,Punches,Grant Waterman
+Ilir Latifi,loss, Jan Blachowicz, 1, 1:58, UFC Fight Night 53 - Nelson vs. Story,Oct ,4.0,2014.0, TKO ,Kick to the Body and Punches,Grant Waterman
+Ilir Latifi,win, Chris Dempsey, 1, 2:07, UFC Fight Night 46 - McGregor vs. Brandao,Jul ,19.0,2014.0, KO ,Punches,Leon Roberts
+Ilir Latifi,win, Cyrille Diabate, 1, 3:02, UFC Fight Night 37 - Gustafsson vs. Manuwa,Mar ,8.0,2014.0, Submission ,Guillotine Choke,Leon Roberts
+Ilir Latifi,loss, Gegard Mousasi, 3, 5:00, UFC on Fuel TV 9 - Mousasi vs. Latifi,Apr ,6.0,2013.0, Decision ,Unanimous,Marc Goddard
+Ilir Latifi,win, Jorge Oliveira, 3, 5:00, Superior Challenge 8 - Malmo,Oct ,6.0,2012.0, Decision ,Unanimous,
+Ilir Latifi,win, Tony Lopez, 3, 5:00, United Glory - 2012 Glory World Series,May ,26.0,2012.0, Decision ,Unanimous,
+Ilir Latifi,win, Denis Bogdanov, 1, 0:00, United Glory 15 - 2012 Glory World Series,Mar ,23.0,2012.0, Submission ,Keylock,
+Ilir Latifi,loss, Emanuel Newton, 3, 5:00, SF 17 - Horwich vs. Rosholt 2,Jul ,15.0,2011.0, Decision ,Unanimous,Jason Stafin
+Ilir Latifi,win, Matteo Minonzio, 1, 4:29, SHC 2 - Battle For The Belt,Apr ,10.0,2010.0, TKO ,Head Kick,
+Ilir Latifi,loss, Tatsuya Mizuno, 3, 0:15, ROTK - Rumble of the Kings 4,Nov ,20.0,2009.0, TKO ,Knee and Punches,Robert Sundel
+Ilir Latifi,win, Darko Krbanjevic, 1, 1:43, ROTK - Rumble of the Kings 3,May ,22.0,2009.0, Submission ,Keylock,
+Ilir Latifi,win, Luis Pinho, 1, 1:20, ROTK - Rumble of the Kings 2,Feb ,27.0,2009.0, TKO ,Submission to Punches,
+Ilir Latifi,win, Roman Mihocka, 2, 1:55, Superior Challenge 2 - Resurrection,Oct ,25.0,2008.0, KO ,Punches,
+Ilir Latifi,NC, Blagoy Ivanov, 1, 0:55, RPC 2 - Real Pain Challenge 2,May ,17.0,2008.0, No Contest ,Ring Broke,
+Ilir Latifi,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Ilir Latifi,win, Christian Colombo, 1, N/A, Adrenaline 3 - Evolution,Sep ,6.0,2008.0, Submission ,North-South Choke,
+Jan Blachowicz,loss, Thiago Santos,3, 0:39, UFC Fight Night 145 - Blachowicz vs. Santos,Feb ,23.0,2019.0, TKO ,Punches,Herb
+Jan Blachowicz,win, Nikita Krylov,2, 2:41, UFC Fight Night 136 - Hunt vs. Oleynik,Sep ,15.0,2018.0, Submission ,Arm-Triangle Choke,Marc Goddard
+Jan Blachowicz,win, Jimi Manuwa,3, 5:00, UFC Fight Night 127 - Werdum vs. Volkov,Mar ,17.0,2018.0, Decision ,Unanimous,Leon Roberts
+Jan Blachowicz,win, Jared Cannonier,3, 5:00, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, Decision ,Unanimous,Herb Dean
+Jan Blachowicz,win, Devin Clark,2, 3:02, UFC Fight Night 118 - Cerrone vs. Till,Oct ,21.0,2017.0, Submission ,Rear-Naked Choke,Marc Goddard
+Jan Blachowicz,loss, Patrick Cummins,3, 5:00, UFC 210 - Cormier vs. Johnson 2,Apr ,8.0,2017.0, Decision ,Majority,John McCarthy
+Jan Blachowicz,loss, Alexander Gustafsson,3, 5:00, UFC Fight Night 93 - Arlovski vs. Barnett,Sep ,3.0,2016.0, Decision ,Unanimous,Marc Goddard
+Jan Blachowicz,win, Igor Pokrajac,3, 5:00, UFC Fight Night 86 - Rothwell vs. Dos Santos,Apr ,10.0,2016.0, Decision ,Unanimous,Leon Roberts
+Jan Blachowicz,loss, Corey Anderson,3, 5:00, UFC 191 - Johnson vs. Dodson 2,Sep ,5.0,2015.0, Decision ,Unanimous,Herb Dean
+Jan Blachowicz,loss, Jimi Manuwa,3, 5:00, UFC Fight Night 64 - Gonzaga vs. Cro Cop 2,Apr ,11.0,2015.0, Decision ,Unanimous,Marc Goddard
+Jan Blachowicz,win, Ilir Latifi,1, 1:58, UFC Fight Night 53 - Nelson vs. Story,Oct ,4.0,2014.0, TKO ,Kick to the Body and Punches,Grant Waterman
+Jan Blachowicz,win, Goran Reljic,3, 5:00, KSW 22 - Pride Time,Mar ,16.0,2013.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Houston Alexander,3, 5:00, KSW 20 - Fighting Symphony,Sep ,15.0,2012.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Mario Miranda,3, 5:00, KSW 18 - Unfinished Sympathy,Feb ,25.0,2012.0, Decision ,Unanimous,Tomasz Bronder
+Jan Blachowicz,win, Rameau Thierry Sokoudjou,3, 5:00, KSW 17 - Revenge,Nov ,26.0,2011.0, Decision ,Unanimous,Piotr Baginski
+Jan Blachowicz,win, Toni Valtonen,2, 1:23, KSW 16 - Konfrontacja,May ,21.0,2011.0, Submission ,Rear-Naked Choke,Tomasz Bronder
+Jan Blachowicz,loss, Rameau Thierry Sokoudjou,2, 5:00, KSW 15 - Konfrontacja,Mar ,19.0,2011.0, TKO ,Retirement,Tomasz Bronder
+Jan Blachowicz,win, Daniel Tabera,2, 4:19, KSW 14 - Judgment Day,Sep ,18.0,2010.0, TKO ,Corner Stoppage,Tomasz Bronder
+Jan Blachowicz,win, Nikolai Onikienko,2, 2:32, WAFC - World Absolute FC,Jun ,24.0,2010.0, Submission ,Rear-Naked Choke,
+Jan Blachowicz,win, Wojciech Orlowski,1, 1:37, KSW 13 - Kumite,May ,7.0,2010.0, Submission ,Rear-Naked Choke,Robert Kostecki
+Jan Blachowicz,win, Julio Cezar de Lima,1, 3:40, KSW 13 - Kumite,May ,7.0,2010.0, KO ,Punch,Robert Kostecki
+Jan Blachowicz,win, Maro Perak,2, 1:51, KSW 10 - Dekalog,Dec ,12.0,2008.0, Submission ,Rear-Naked Choke,Robert Kostecki
+Jan Blachowicz,win, Christian M'Pumbu,2, 3:12, KSW - Extra,Sep ,13.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Aziz Karaoglu,1, 4:13, KSW 9 - Konfrontacja,May ,9.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Antoni Chmielewski,2, 2:54, KSW 9 - Konfrontacja,May ,9.0,2008.0, Submission ,Armbar,Robert Kostecki
+Jan Blachowicz,win, Martin Zawada,2, 5:00, KSW 9 - Konfrontacja,May ,9.0,2008.0, Decision ,Unanimous,Robert Kostecki
+Jan Blachowicz,loss, Andre Fyeet,1, 1:57, KSW 8 - Konfrontacja,Nov ,10.0,2007.0, Submission ,Kimura,Robert Kostecki
+Jan Blachowicz,win, Daniel Dowda,1, 1:35, KSW - Elimination,Sep ,15.0,2007.0, TKO ,Punches,Robert Kostecki
+Jan Blachowicz,win, Pawel Gasinski,1, 2:36, KSW - Elimination,Sep ,15.0,2007.0, TKO ,Punches,Robert Kostecki
+Jan Blachowicz,win, Sebastian Olchawa,2, 5:00, KSW - Elimination,Sep ,15.0,2007.0, Decision ,Unanimous,Robert Kostecki
+Jan Blachowicz,loss, Marcin Krysztofiak,2, 5:00, FCP 3 - Khalidov vs. Troeng,Feb ,25.0,2007.0, Decision ,Unanimous,
+Jon Jones,win, Anthony Smith,5, 5:00, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Alexander Gustafsson,3, 2:02, UFC 232 - Jones vs. Gustafsson 2,Dec ,29.0,2018.0, KO ,Punches,Mike Beltran
+Jon Jones,NC, Daniel Cormier,3, 3:01, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, No Contest ,Overturned by CSAC,John McCarthy
+Jon Jones,win, Ovince St. Preux,5, 5:00, UFC 197 - Jones vs. St. Preux,Apr ,23.0,2016.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Daniel Cormier,5, 5:00, UFC 182 - Jones vs. Cormier,Jan ,3.0,2015.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Glover Teixeira,5, 5:00, UFC 172 - Jones vs. Teixeira,Apr ,26.0,2014.0, Decision ,Unanimous,Dan Miragliotta
+Jon Jones,win, Alexander Gustafsson,5, 5:00, UFC 165 - Jones vs. Gustafsson,Sep ,21.0,2013.0, Decision ,Unanimous,John McCarthy
+Jon Jones,win, Chael Sonnen,1, 4:33, UFC 159 - Jones vs. Sonnen,Apr ,27.0,2013.0, TKO ,Elbows and Punches,Keith Peterson
+Jon Jones,win, Vitor Belfort,4, 0:54, UFC 152 - Jones vs. Belfort,Sep ,22.0,2012.0, Submission ,Keylock,John McCarthy
+Jon Jones,win, Rashad Evans,5, 5:00, UFC 145 - Jones vs. Evans,Apr ,21.0,2012.0, Decision ,Unanimous,Herb Dean
+Jon Jones,win, Lyoto Machida,2, 4:26, UFC 140 - Jones vs. Machida,Dec ,10.0,2011.0, Technical Submission ,Guillotine Choke,John McCarthy
+Jon Jones,win, Quinton Jackson,4, 1:14, UFC 135 - Jones vs. Rampage,Sep ,24.0,2011.0, Submission ,Rear-Naked Choke,Josh Rosenthal
+Jon Jones,win, Mauricio Rua,3, 2:37, UFC 128 - Shogun vs. Jones,Mar ,19.0,2011.0, TKO ,Punches and Knees,Herb Dean
+Jon Jones,win, Ryan Bader,2, 4:20, UFC 126 - Silva vs. Belfort,Feb ,5.0,2011.0, Submission ,Guillotine Choke,Herb Dean
+Jon Jones,win, Vladimir Matyushenko,1, 1:52, UFC Live 2 - Jones vs. Matyushenko,Aug ,1.0,2010.0, TKO ,Elbows,Herb Dean
+Jon Jones,win, Brandon Vera,1, 3:19, UFC Live 1 - Vera vs. Jones,Mar ,21.0,2010.0, TKO ,Elbows and Punches,Herb Dean
+Jon Jones,loss, Matt Hamill,1, 4:14, UFC - The Ultimate Fighter 10 Finale,Dec ,5.0,2009.0, Disqualification ,Illegal Elbows,Steve Mazzagatti
+Jon Jones,win, Jake O'Brien,2, 2:43, UFC 100 - Lesnar vs. Mir 2,Jul ,11.0,2009.0, Submission ,Guillotine Choke,Yves Lavigne
+Jon Jones,win, Stephan Bonnar,3, 5:00, UFC 94 - St. Pierre vs. Penn 2,Jan ,31.0,2009.0, Decision ,Unanimous,Steve Mazzagatti
+Jon Jones,win, Andre Gusmao,3, 5:00, UFC 87 - Seek and Destroy,Aug ,9.0,2008.0, Decision ,Unanimous,Daryl Guthmiller
+Jon Jones,win, Moyses Gabin,2, 1:58, BCX 5 - Battle Cage Xtreme 5,Jul ,12.0,2008.0, TKO ,Punches,Kevin Mulhall
+Jon Jones,win, Parker Porter,1, 0:36, WCF - World Championship Fighting 3,Jun ,20.0,2008.0, KO ,Punch,
+Jon Jones,win, Ryan Verrett,1, 0:14, USFL - War in the Woods 3,May ,9.0,2008.0, TKO ,Punches,
+Jon Jones,win, Anthony Pina,1, 1:15, ICE Fighter - ICE Fighter,Apr ,25.0,2008.0, Submission ,Guillotine Choke,
+Jon Jones,win, Carlos    Eduardo,3, 0:24, BCX 4 - Battle Cage Xtreme 4,Apr ,19.0,2008.0, KO ,Punches,Kevin Mulhall
+Jon Jones,win, Brad Bernard,1, 1:32, FFP - Untamed 20,Apr ,12.0,2008.0, TKO ,Punches,
+Mauricio Ru,win, Tyson Pedro,3, 0:43, UFC Fight Night 142 - Dos Santos vs. Tuivasa,Dec ,1.0,2018.0, TKO ,Punches,Steve Perceval
+Mauricio Ru,loss, Anthony Smith,1, 1:29, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, KO ,Elbow,Marc Goddard
+Mauricio Ru,win, Gian Villante,3, 0:59, UFC Fight Night 106 - Belfort vs. Gastelum,Mar ,11.0,2017.0, TKO ,Punches,Mario Yamasaki
+Mauricio Ru,win, Corey Anderson,3, 5:00, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, Decision ,Split,Mario Yamasaki
+Mauricio Ru,win, Antonio Rogerio Nogueira,3, 5:00, UFC 190 - Rousey vs. Correia,Aug ,1.0,2015.0, Decision ,Unanimous,Mario Yamasaki
+Mauricio Ru,loss, Ovince St. Preux,1, 0:34, UFC Fight Night 56 - Shogun vs. St. Preux,Nov ,8.0,2014.0, KO ,Punches,Mario Yamasaki
+Mauricio Ru,loss, Dan Henderson,3, 1:31, UFC Fight Night 38 - Shogun vs. Henderson 2,Mar ,23.0,2014.0, TKO ,Punches,Herb Dean
+Mauricio Ru,win, James Te Huna,1, 1:03, UFC Fight Night 33 - Hunt vs. Bigfoot,Dec ,7.0,2013.0, KO ,Punch,John Sharp
+Mauricio Ru,loss, Chael Sonnen,1, 4:47, UFC Fight Night 26 - Shogun vs. Sonnen,Aug ,17.0,2013.0, Submission ,Guillotine Choke,Herb Dean
+Mauricio Ru,loss, Alexander Gustafsson,3, 5:00, UFC on Fox 5 - Henderson vs. Diaz,Dec ,8.0,2012.0, Decision ,Unanimous,Dan Miragliotta
+Mauricio Ru,win, Brandon Vera,4, 4:09, UFC on Fox 4 - Shogun vs. Vera,Aug ,4.0,2012.0, TKO ,Punches,Herb Dean
+Mauricio Ru,loss, Dan Henderson,5, 5:00, UFC 139 - Shogun vs. Henderson,Nov ,19.0,2011.0, Decision ,Unanimous,Josh Rosenthal
+Mauricio Ru,win, Forrest Griffin,1, 1:53, UFC 134 - Silva vs. Okami,Aug ,27.0,2011.0, KO ,Punches,Marc Goddard
+Mauricio Ru,loss, Jon Jones,3, 2:37, UFC 128 - Shogun vs. Jones,Mar ,19.0,2011.0, TKO ,Punches and Knees,Herb Dean
+Mauricio Ru,win, Lyoto Machida,1, 3:35, UFC 113 - Machida vs. Shogun 2,May ,8.0,2010.0, KO ,Punches,Yves Lavigne
+Mauricio Ru,loss, Lyoto Machida,5, 5:00, UFC 104 - Machida vs. Shogun,Oct ,24.0,2009.0, Decision ,Unanimous,Herb Dean
+Mauricio Ru,win, Chuck Liddell,1, 4:28, UFC 97 - Redemption,Apr ,18.0,2009.0, TKO ,Punches,Mario Yamasaki
+Mauricio Ru,win, Mark Coleman,3, 4:36, UFC 93 - Franklin vs. Henderson,Jan ,17.0,2009.0, TKO ,Punches,Kevin Mulhall
+Mauricio Ru,loss, Forrest Griffin,3, 4:45, UFC 76 - Knockout,Sep ,22.0,2007.0, Submission ,Rear-Naked Choke,Steve Mazzagatti
+Mauricio Ru,win, Alistair Overeem,1, 3:37, Pride 33 - Second Coming,Feb ,24.0,2007.0, KO ,Punches,Steve Mazzagati
+Mauricio Ru,win, Kazuhiro Nakamura,3, 5:00, Pride FC - Shockwave 2006,Dec ,31.0,2006.0, Decision ,Unanimous,
+Mauricio Ru,win, Kevin Randleman,1, 2:35, Pride 32 - The Real Deal,Oct ,21.0,2006.0, Submission ,Kneebar,Daisuke Noguchi
+Mauricio Ru,win, Cyrille Diabate,1, 5:29, Pride FC - Final Conflict Absolute,Sep ,10.0,2006.0, TKO ,Stomps,
+Mauricio Ru,loss, Mark Coleman,1, 0:49, Pride 31 - Dreamers,Feb ,26.0,2006.0, TKO ,Broken Arm,
+Mauricio Ru,win, Ricardo Arona,1, 2:54, Pride FC - Final Conflict 2005,Aug ,28.0,2005.0, KO ,Punches,
+Mauricio Ru,win, Alistair Overeem,1, 6:42, Pride FC - Final Conflict 2005,Aug ,28.0,2005.0, TKO ,Punches,
+Mauricio Ru,win, Antonio Rogerio Nogueira,3, 5:00, Pride FC - Critical Countdown 2005,Jun ,26.0,2005.0, Decision ,Unanimous,
+Mauricio Ru,win, Quinton Jackson,1, 4:47, Pride FC - Total Elimination 2005,Apr ,23.0,2005.0, TKO ,Soccer Kicks,
+Mauricio Ru,win, Hiromitsu Kanehara,1, 1:40, Pride 29 - Fists of Fire,Feb ,20.0,2005.0, TKO ,Stomp,
+Mauricio Ru,win, Yasuhito Namekawa,1, 6:02, Pride - Bushido 5,Oct ,14.0,2004.0, TKO ,Punches,
+Mauricio Ru,win, Akihiro Gono,1, 9:04, Pride - Bushido 2,Feb ,15.0,2004.0, TKO ,Soccer Kicks,
+Mauricio Ru,win, Akira Shoji,1, 3:47, Pride - Bushido 1,Oct ,5.0,2003.0, KO ,Punches,
+Mauricio Ru,loss, Renato Sobral,3, 3:07, IFC - Global Domination,Sep ,6.0,2003.0, Submission ,Guillotine Choke,
+Mauricio Ru,win, Erick Wanderley,2, 2:54, IFC - Global Domination,Sep ,6.0,2003.0, TKO ,Punches,
+Mauricio Ru,win, Evangelista Santos,1, 9:22, Meca 9 - Meca World Vale Tudo 9,Aug ,1.0,2003.0, TKO ,Punches,Pedro Rizzo
+Mauricio Ru,win, Angelo Antonio de Oliveira,1, 0:55, Meca 8 - Meca World Vale Tudo 8,May ,16.0,2003.0, TKO ,Soccer Kicks,Luiz Alves
+Mauricio Ru,win, Rafael Freitas,1, 4:00, Meca 7 - Meca World Vale Tudo 7,Nov ,8.0,2002.0, KO ,Kick,
+Misha Cirkunov,loss, Johnny Walker,1, 0:38, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, TKO ,Flying Knee and Punches,Herb Dean
+Misha Cirkunov,win, Patrick Cummins,1, 2:40, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Arm-Triangle Choke,Yves Lavigne
+Misha Cirkunov,loss, Glover Teixeira,1, 2:45, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, TKO ,Punches,Dan Miragliotta
+Misha Cirkunov,loss, Volkan Oezdemir,1, 0:28, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punch,Kevin Sataki
+Misha Cirkunov,win, Nikita Krylov,1, 4:38, UFC 206 - Holloway vs. Pettis,Dec ,10.0,2016.0, Submission ,Guillotine Choke,John McCarthy
+Misha Cirkunov,win, Ion Cutelaba,3, 1:22, UFC Fight Night 89 - MacDonald vs. Thompson,Jun ,18.0,2016.0, Submission ,Arm-Triangle Choke,Herb Dean
+Misha Cirkunov,win, Alex Nicholson,2, 1:28, UFC Fight Night 82 - Hendricks vs. Thompson,Feb ,6.0,2016.0, Submission ,Neck Crank,Herb Dean
+Misha Cirkunov,win, Daniel Jolly,1, 4:45, UFC Fight Night 74 - Holloway vs. Oliveira,Aug ,23.0,2015.0, KO ,Punches,Jerin Valel
+Misha Cirkunov,win, Shaun Asher,1, 1:20, HKFC - Hard Knocks 43,May ,22.0,2015.0, Submission ,Armbar,Adam Cheadle
+Misha Cirkunov,win, Rodney Wallace,1, 2:00, HKFC  - Hard Knocks 41,Jan ,30.0,2015.0, TKO ,Head Kick,Adam Cheadle
+Misha Cirkunov,win, Martin Desilets,1, 2:36, PFC 2 - Fight Night,Mar ,8.0,2014.0, Technical Submission ,Triangle Choke,
+Misha Cirkunov,win, Jon Ganshorn,1, 1:59, FFL 9 - Northern Nightmare,Sep ,7.0,2013.0, Submission ,Armbar,Kyle Cardinal
+Misha Cirkunov,loss, Aaron Johnson,1, 2:11, King of the Ring - VI,Mar ,17.0,2012.0, Submission ,Heel Hook,
+Misha Cirkunov,win, Ali Mokdad,3, 5:00, SFS 3 - Meltdown in the Valley,Dec ,3.0,2011.0, Decision ,Unanimous,Dan Miragliotta
+Misha Cirkunov,win, Ion Cherdivara,3, 5:00, Knockout Entertainment - MMA: The Reckoning,Apr ,2.0,2011.0, Decision ,Unanimous,Dan Miragliotta
+Misha Cirkunov,win, Ricardeau Francois,1, 0:56, UGC 26 - Ultimate Generation Combat 26,Mar ,4.0,2011.0, TKO ,Punches,
+Misha Cirkunov,win, Shawn Pauliuk,1, 0:57, AFC 3 - Evolution,Jul ,17.0,2010.0, Submission ,Punches,Mac Danzig
+Misha Cirkunov,loss, Roy Boughton,2, 2:33, W-1 MMA 5 - Judgment Day,Jun ,19.0,2010.0, Submission ,Armbar,
+Misha Cirkunov,win, Jeff Doyle,1, 0:40, Ringside MMA 5 - Triple Threat,Jan ,30.0,2010.0, TKO ,Punches,
+Nikita Krylov ,win, Ovince St. Preux, 2, 2:30, UFC 236 - Holloway vs. Poirier,Apr ,13.0,2019.0, Submission ,Rear-Naked Choke,Blake Grice
+Nikita Krylov ,loss, Jan Blachowicz, 2, 2:41, UFC Fight Night 136 - Hunt vs. Oleynik,Sep ,15.0,2018.0, Submission ,Arm-Triangle Choke,Marc Goddard
+Nikita Krylov ,win, Fabio Maldonado, 2, 3:33, FNG - Fight Nights Global 87,May ,19.0,2018.0, KO ,Punch,Jan Vobornik
+Nikita Krylov ,win, Emanuel Newton, 1, 0:43, FNG - Fight Nights Global 77,Oct ,13.0,2017.0, KO ,Knee,Dmitry Valuevich
+Nikita Krylov ,win, Maro Perak, 2, 0:36, Donbass Association of Combat Sports - United Donbass,Aug ,26.0,2017.0, TKO ,Punches,
+Nikita Krylov ,win, Stjepan Bekavac, 1, 0:53, FNG - Fight Nights Global 68,Jun ,2.0,2017.0, Submission ,Guillotine Choke,Herb Dean
+Nikita Krylov ,loss, Misha Cirkunov, 1, 4:38, UFC 206 - Holloway vs. Pettis,Dec ,10.0,2016.0, Submission ,Guillotine Choke,John McCarthy
+Nikita Krylov ,win, Ed Herman, 2, 0:40, UFC 201 - Lawler vs. Woodley,Jul ,30.0,2016.0, KO ,Head Kick,Marc Goddard
+Nikita Krylov ,win, Francimar Barroso, 2, 3:11, UFC Fight Night 87 - Overeem vs. Arlovski,May ,8.0,2016.0, Submission ,Rear-Naked Choke,Lukasz Bosacki
+Nikita Krylov ,win, Marcos Rogerio de Lima, 1, 2:29, UFC Fight Night 74 - Holloway vs. Oliveira,Aug ,23.0,2015.0, Submission ,Rear-Naked Choke,Herb Dean
+Nikita Krylov ,win, Stanislav Nedkov, 1, 1:24, UFC on Fox 14 - Gustafsson vs. Johnson,Jan ,24.0,2015.0, Submission ,Guillotine Choke,Marc Goddard
+Nikita Krylov ,win, Cody Donovan, 1, 4:57, UFC Fight Night 46 - McGregor vs. Brandao,Jul ,19.0,2014.0, TKO ,Punches,Marc Goddard
+Nikita Krylov ,loss, Ovince St. Preux, 1, 1:29, UFC 171 - Hendricks vs. Lawler,Mar ,15.0,2014.0, Technical Submission ,Shoulder Choke,Dan Miragliotta
+Nikita Krylov ,win, Walt Harris, 1, 0:25, UFC on Fox 10 - Henderson vs. Thomson,Jan ,25.0,2014.0, TKO ,Head Kick and Punches,Rob Madrigal
+Nikita Krylov ,loss, Soa Palelei, 3, 1:34, UFC 164 - Henderson vs. Pettis 2,Aug ,31.0,2013.0, TKO ,Punches,Al Wichgers
+Nikita Krylov ,win, Gabriel Tampu, 1, 4:27, M-1 Challenge 38 - Spring Battle,Apr ,9.0,2013.0, TKO ,Punches,Marco Broersen
+Nikita Krylov ,loss, Vladimir Mishchenko, 1, 0:58, OC - Oplot Challenge 40,Mar ,8.0,2013.0, Submission ,Arm-Triangle Choke,Andrey Kolovorotny
+Nikita Krylov ,win, Julian Bogdanov, 1, 1:17, GFC 2 - Gladiators Fighting Championship,Jan ,19.0,2013.0, KO ,Punch,Vladimir Derebas
+Nikita Krylov ,loss, Vladimir Mishchenko, 1, 1:47, OC - Oplot Challenge 22,Dec ,29.0,2012.0, Submission ,Arm-Triangle Choke,Anton Bochorishvili
+Nikita Krylov ,win, Denis Simkin, 1, 0:35, GFC 1 - Gladiators Fighting Championship,Dec ,22.0,2012.0, Submission ,Keylock,Alexandr Lavrenchuk
+Nikita Krylov ,win, Valeriy Shcherbakov, 1, 1:38, WH - Igor Vovchanchyn Cup 2,Nov ,9.0,2012.0, Submission ,Achilles Lock,
+Nikita Krylov ,win, Vladimir Gerasimchik, 1, 1:35, OC - Oplot Challenge 7,Oct ,20.0,2012.0, Submission ,Kimura,Anton Bochorishvili
+Nikita Krylov ,win, Igor Kukurudziak, 1, 2:47, ECSF - Kolomyi Cup,Oct ,13.0,2012.0, Submission ,Kimura,Vitali Vovk
+Nikita Krylov ,win, Viktor Smirnov, 1, 0:12, ECSF - MMA Lion Cup,Oct ,2.0,2012.0, TKO ,Doctor Stoppage,Vitali Vovk
+Nikita Krylov ,win, Anatoliy Didenko, 1, 0:29, OC - Oplot Challenge 4,Sep ,15.0,2012.0, Submission ,Achilles Lock,
+Nikita Krylov ,win, Alexey Stepanov, 1, 0:29, ECSF - MMA Ukraine Cup 7,Sep ,14.0,2012.0, Submission ,Rear-Naked Choke,Alexander Lavrenchuk
+Nikita Krylov ,win, Svyatoslav Scherbakov, 1, 1:44, ECSF - MMA Ukraine Cup 6,Aug ,26.0,2012.0, Submission ,Armbar,
+Nikita Krylov ,win, Anatoliy Didenko, 1, 2:08, ECSF - MMA Ukraine Cup 5,Aug ,18.0,2012.0, Submission ,Rear-Naked Choke,
+Nikita Krylov ,win, Alexey Artemenko, 1, 2:20, BBF - Big Boys Fights,Aug ,16.0,2012.0, Submission ,Guillotine Choke,Alexandr Lavrenchuk
+Nikita Krylov ,win, Denis Bogdanov, 1, 1:31, ECSF - Cup Of West Ukraine 2012,Aug ,10.0,2012.0, Submission ,Rear-Naked Choke,
+Nikita Krylov ,win, Alexander Umrikhin, 1, 0:56, RFP - West Fight 4,Jul ,27.0,2012.0, TKO ,Punches,
+Nikita Krylov ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Nikita Krylov ,loss, Akhmedshaikh Gelegaev, 1, 2:26, LK - Liga Kavkaz 2012,Jul ,3.0,2012.0, Submission ,Armbar,
+Thiago Santos,win, Jan Blachowicz, 3, 0:39, UFC Fight Night 145 - Blachowicz vs. Santos,Feb ,23.0,2019.0, TKO ,Punches,Herb
+Thiago Santos,win, Jimi Manuwa, 2, 0:41, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, KO ,Punches,Todd Anderson
+Thiago Santos,win, Eryk Anders, 3, 5:00, UFC Fight Night 137 - Santos vs. Anders,Sep ,22.0,2018.0, TKO ,Elbows,Marc Goddard
+Thiago Santos,win, Kevin Holland, 3, 5:00, UFC 227 - Dillashaw vs. Garbrandt 2,Aug ,4.0,2018.0, Decision ,Unanimous,Mike Beltran
+Thiago Santos,loss, David Branch, 1, 2:30, UFC Fight Night 128 - Barboza vs. Lee,Apr ,21.0,2018.0, KO ,Punches,Gary Copeland
+Thiago Santos,win, Anthony Smith, 2, 1:03, UFC Fight Night 125 - Machida vs. Anders,Feb ,3.0,2018.0, TKO ,Kick to the Body and Punches,Marc Goddard
+Thiago Santos,win, Jack Hermansson, 1, 4:59, UFC Fight Night 119 - Brunson vs. Machida,Oct ,28.0,2017.0, TKO ,Punches,Jerin Valel
+Thiago Santos,win, Gerald Meerschaert, 2, 2:04, UFC 213 - Romero vs. Whittaker,Jul ,8.0,2017.0, TKO ,Punches,Marc Goddard
+Thiago Santos,win, Jack Marshman, 2, 2:21, UFC Fight Night 105 - Lewis vs. Browne,Feb ,19.0,2017.0, TKO ,Spinning Wheel Kick and Punches,Brad Jardine
+Thiago Santos,loss, Eric Spicely, 1, 2:58, UFC Fight Night 95 - Cyborg vs. Lansberg,Sep ,24.0,2016.0, Submission ,Rear-Naked Choke,John McCarthy
+Thiago Santos,loss, Gegard Mousasi, 1, 4:32, UFC 200 - Tate vs. Nunes,Jul ,9.0,2016.0, TKO ,Punches,Marc Goddard
+Thiago Santos,win, Nate Marquardt, 1, 3:39, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, KO ,Punch,Kevin MacDonald
+Thiago Santos,win, Elias Theodorou, 3, 5:00, UFC Fight Night 80 - Namajunas vs. VanZant,Dec ,10.0,2015.0, Decision ,Unanimous,Marc Goddard
+Thiago Santos,win, Steve Bosse, 1, 0:29, UFC Fight Night 70 - Machida vs. Romero,Jun ,27.0,2015.0, KO ,Head Kick,James Warring
+Thiago Santos,win, Andy Enz, 1, 1:56, UFC 183 - Silva vs. Diaz,Jan ,31.0,2015.0, TKO ,Punches,Mark Smith
+Thiago Santos,loss, Uriah Hall, 3, 5:00, UFC 175 - Weidman vs. Machida,Jul ,5.0,2014.0, Decision ,Unanimous,Yves Lavigne
+Thiago Santos,win, Ronny Markes, 1, 0:53, UFC Fight Night 38 - Shogun vs. Henderson 2,Mar ,23.0,2014.0, TKO ,Kick to the Body and Punches,Mario Yamasaki
+Thiago Santos,loss, Cezar Ferreira, 1, 0:47, UFC 163 - Aldo vs. Korean Zombie,Aug ,3.0,2013.0, Submission ,Guillotine Choke,Mario Yamasaki
+Thiago Santos,win, Dennis Bentes Figueira da Fonseca, 1, 0:00, WOCS - Watch Out Combat Show 20,Jul ,27.0,2012.0, TKO ,Head Kick and Punches,
+Thiago Santos,loss, Vicente Luque, 1, 0:00, Spartan MMA - Spartan MMA 2012,Apr ,28.0,2012.0, TKO ,Punches,
+Thiago Santos,win, Junior Vidal, 1, 0:00, WOCS - Watch Out Combat Show 18,Mar ,3.0,2012.0, TKO ,Punches,Luiz Cabelinho
+Thiago Santos,win, Eneas Souza, 3, 2:50, WOCS - Watch Out Combat Show 17,Dec ,17.0,2011.0, Submission ,Rear-Naked Choke,
+Thiago Santos,win, Marcos Viggiani, 3, 5:00, Spartan MMA - Spartan MMA 2011,Nov ,26.0,2011.0, Decision ,Unanimous,
+Thiago Santos,win, Rafael Braga, 1, 0:00, EF - Explosion Fight,Aug ,13.0,2011.0, TKO ,Punches,
+Thiago Santos,win, Mauricio Chueke, 3, 5:00, WOCS - Watch Out Combat Show 14,Jul ,23.0,2011.0, Decision ,Unanimous,
+Thiago Santos,win, Gabriel Barreiro, 2, 1:53, SF - Senna Fight,Apr ,16.0,2011.0, TKO ,Punches,
+Thiago Santos,win, Guilherme Benedito Nunes, 3, 5:00, WOCS - Watch Out Combat Show 10,Dec ,10.0,2010.0, Decision ,Unanimous,
+Thiago Santos,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Thiago Santos,loss, Armando Sixel, 1, 0:00, RFC - Rio FC 2,Jun ,20.0,2009.0, Submission ,Arm-Triangle Choke,Fernando Paulon
+Volkan Oezdemir,loss, Dominick Reyes,3, 5:00, UFC Fight Night 147 - Till vs. Masvidal,Mar ,16.0,2019.0, Decision ,Split,Leon Roberts
+Volkan Oezdemir,loss, Anthony Smith,3, 4:26, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Rear-Naked Choke,Yves Lavigne
+Volkan Oezdemir,loss, Daniel Cormier,2, 2:00, UFC 220 - Miocic vs. Ngannou,Jan ,20.0,2018.0, TKO ,Punches,Kevin MacDonald
+Volkan Oezdemir,win, Jimi Manuwa,1, 0:42, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, KO ,Punches,Jason Herzog
+Volkan Oezdemir,win, Misha Cirkunov,1, 0:28, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punch,Kevin Sataki
+Volkan Oezdemir,win, Ovince St. Preux,3, 5:00, UFC Fight Night 104 - Bermudez vs. Korean Zombie,Feb ,4.0,2017.0, Decision ,Split,Chris Reed
+Volkan Oezdemir,win, Alikhan Vakhaev,3, 5:00, WFCA 17 - Grand Prix Akhmat ,Apr ,9.0,2016.0, Decision ,Unanimous,
+Volkan Oezdemir,win, Paco Estevez,1, N/A, SHC 10 - Carvalho vs. Belo,Sep ,20.0,2014.0, TKO ,Punches,
+Volkan Oezdemir,loss, Kelly Anundson,2, 3:19, Bellator MMA - Bellator 115,Apr ,4.0,2014.0, Submission ,Neck Crank,Herb Dean
+Volkan Oezdemir,win, Josh Lanier,1, 3:13, Bellator MMA - Bellator 105,Oct ,25.0,2013.0, TKO ,Punches and Elbows,Robert Romero
+Volkan Oezdemir,win, David Round,1, 0:00, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, TKO ,Punches,
+Volkan Oezdemir,win, Angelier Benjamin,1, 0:45, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, KO ,Punches,
+Volkan Oezdemir,win, Benyaich Mohamed,1, 0:15, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, TKO ,Punches,
+Volkan Oezdemir,win, Mohamed Amidi,1, 1:59, SHC 6 - Belo vs. Rodriguez,Oct ,6.0,2012.0, TKO ,Punches,Boris Regard
+Volkan Oezdemir,win, Bruno Farias Grancheux,1, 1:54, Lions FC 4 - Lions Fighting Championship 4,Sep ,15.0,2012.0, TKO ,Punches,
+Volkan Oezdemir,win, Ronilson Santos,1, 2:12, Lions FC 3 - Lions Fighting Championship 3,May ,12.0,2012.0, TKO ,Retirement,
+Volkan Oezdemir,win, Mamadou Cisse,1, 3:43, 100% Fight 10 - Supreme League Block C,Apr ,7.0,2012.0, Submission ,Kimura,Ludovic Dandine
+Volkan Oezdemir,win, Boubacar Balde,3, 5:00, Lions FC - Lions Fighting Championship,Oct ,15.0,2011.0, Decision ,Unanimous,Jonatas Novaes
+Volkan Oezdemir,win, Martin Vath,1, 0:56, Shooto - Switzerland 7,Sep ,4.0,2010.0, TKO ,Punches,
+Mauricio Ru,win, Tyson Pedro,3, 0:43, UFC Fight Night 142 - Dos Santos vs. Tuivasa,Dec ,1.0,2018.0, TKO ,Punches,Steve Perceval
+Mauricio Ru,loss, Anthony Smith,1, 1:29, UFC Fight Night 134 - Shogun vs. Smith,Jul ,22.0,2018.0, KO ,Elbow,Marc Goddard
+Mauricio Ru,win, Gian Villante,3, 0:59, UFC Fight Night 106 - Belfort vs. Gastelum,Mar ,11.0,2017.0, TKO ,Punches,Mario Yamasaki
+Mauricio Ru,win, Corey Anderson,3, 5:00, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, Decision ,Split,Mario Yamasaki
+Mauricio Ru,win, Antonio Rogerio Nogueira,3, 5:00, UFC 190 - Rousey vs. Correia,Aug ,1.0,2015.0, Decision ,Unanimous,Mario Yamasaki
+Mauricio Ru,loss, Ovince St. Preux,1, 0:34, UFC Fight Night 56 - Shogun vs. St. Preux,Nov ,8.0,2014.0, KO ,Punches,Mario Yamasaki
+Mauricio Ru,loss, Dan Henderson,3, 1:31, UFC Fight Night 38 - Shogun vs. Henderson 2,Mar ,23.0,2014.0, TKO ,Punches,Herb Dean
+Mauricio Ru,win, James Te Huna,1, 1:03, UFC Fight Night 33 - Hunt vs. Bigfoot,Dec ,7.0,2013.0, KO ,Punch,John Sharp
+Mauricio Ru,loss, Chael Sonnen,1, 4:47, UFC Fight Night 26 - Shogun vs. Sonnen,Aug ,17.0,2013.0, Submission ,Guillotine Choke,Herb Dean
+Mauricio Ru,loss, Alexander Gustafsson,3, 5:00, UFC on Fox 5 - Henderson vs. Diaz,Dec ,8.0,2012.0, Decision ,Unanimous,Dan Miragliotta
+Mauricio Ru,win, Brandon Vera,4, 4:09, UFC on Fox 4 - Shogun vs. Vera,Aug ,4.0,2012.0, TKO ,Punches,Herb Dean
+Mauricio Ru,loss, Dan Henderson,5, 5:00, UFC 139 - Shogun vs. Henderson,Nov ,19.0,2011.0, Decision ,Unanimous,Josh Rosenthal
+Mauricio Ru,win, Forrest Griffin,1, 1:53, UFC 134 - Silva vs. Okami,Aug ,27.0,2011.0, KO ,Punches,Marc Goddard
+Mauricio Ru,loss, Jon Jones,3, 2:37, UFC 128 - Shogun vs. Jones,Mar ,19.0,2011.0, TKO ,Punches and Knees,Herb Dean
+Mauricio Ru,win, Lyoto Machida,1, 3:35, UFC 113 - Machida vs. Shogun 2,May ,8.0,2010.0, KO ,Punches,Yves Lavigne
+Mauricio Ru,loss, Lyoto Machida,5, 5:00, UFC 104 - Machida vs. Shogun,Oct ,24.0,2009.0, Decision ,Unanimous,Herb Dean
+Mauricio Ru,win, Chuck Liddell,1, 4:28, UFC 97 - Redemption,Apr ,18.0,2009.0, TKO ,Punches,Mario Yamasaki
+Mauricio Ru,win, Mark Coleman,3, 4:36, UFC 93 - Franklin vs. Henderson,Jan ,17.0,2009.0, TKO ,Punches,Kevin Mulhall
+Mauricio Ru,loss, Forrest Griffin,3, 4:45, UFC 76 - Knockout,Sep ,22.0,2007.0, Submission ,Rear-Naked Choke,Steve Mazzagatti
+Mauricio Ru,win, Alistair Overeem,1, 3:37, Pride 33 - Second Coming,Feb ,24.0,2007.0, KO ,Punches,Steve Mazzagati
+Mauricio Ru,win, Kazuhiro Nakamura,3, 5:00, Pride FC - Shockwave 2006,Dec ,31.0,2006.0, Decision ,Unanimous,
+Mauricio Ru,win, Kevin Randleman,1, 2:35, Pride 32 - The Real Deal,Oct ,21.0,2006.0, Submission ,Kneebar,Daisuke Noguchi
+Mauricio Ru,win, Cyrille Diabate,1, 5:29, Pride FC - Final Conflict Absolute,Sep ,10.0,2006.0, TKO ,Stomps,
+Mauricio Ru,loss, Mark Coleman,1, 0:49, Pride 31 - Dreamers,Feb ,26.0,2006.0, TKO ,Broken Arm,
+Mauricio Ru,win, Ricardo Arona,1, 2:54, Pride FC - Final Conflict 2005,Aug ,28.0,2005.0, KO ,Punches,
+Mauricio Ru,win, Alistair Overeem,1, 6:42, Pride FC - Final Conflict 2005,Aug ,28.0,2005.0, TKO ,Punches,
+Mauricio Ru,win, Antonio Rogerio Nogueira,3, 5:00, Pride FC - Critical Countdown 2005,Jun ,26.0,2005.0, Decision ,Unanimous,
+Mauricio Ru,win, Quinton Jackson,1, 4:47, Pride FC - Total Elimination 2005,Apr ,23.0,2005.0, TKO ,Soccer Kicks,
+Mauricio Ru,win, Hiromitsu Kanehara,1, 1:40, Pride 29 - Fists of Fire,Feb ,20.0,2005.0, TKO ,Stomp,
+Mauricio Ru,win, Yasuhito Namekawa,1, 6:02, Pride - Bushido 5,Oct ,14.0,2004.0, TKO ,Punches,
+Mauricio Ru,win, Akihiro Gono,1, 9:04, Pride - Bushido 2,Feb ,15.0,2004.0, TKO ,Soccer Kicks,
+Mauricio Ru,win, Akira Shoji,1, 3:47, Pride - Bushido 1,Oct ,5.0,2003.0, KO ,Punches,
+Mauricio Ru,loss, Renato Sobral,3, 3:07, IFC - Global Domination,Sep ,6.0,2003.0, Submission ,Guillotine Choke,
+Mauricio Ru,win, Erick Wanderley,2, 2:54, IFC - Global Domination,Sep ,6.0,2003.0, TKO ,Punches,
+Mauricio Ru,win, Evangelista Santos,1, 9:22, Meca 9 - Meca World Vale Tudo 9,Aug ,1.0,2003.0, TKO ,Punches,Pedro Rizzo
+Mauricio Ru,win, Angelo Antonio de Oliveira,1, 0:55, Meca 8 - Meca World Vale Tudo 8,May ,16.0,2003.0, TKO ,Soccer Kicks,Luiz Alves
+Mauricio Ru,win, Rafael Freitas,1, 4:00, Meca 7 - Meca World Vale Tudo 7,Nov ,8.0,2002.0, KO ,Kick,
+Misha Cirkunov,loss, Johnny Walker,1, 0:38, UFC 235 - Jones vs. Smith,Mar ,2.0,2019.0, TKO ,Flying Knee and Punches,Herb Dean
+Misha Cirkunov,win, Patrick Cummins,1, 2:40, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Arm-Triangle Choke,Yves Lavigne
+Misha Cirkunov,loss, Glover Teixeira,1, 2:45, UFC on Fox 26 - Lawler vs. dos Anjos,Dec ,16.0,2017.0, TKO ,Punches,Dan Miragliotta
+Misha Cirkunov,loss, Volkan Oezdemir,1, 0:28, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punch,Kevin Sataki
+Misha Cirkunov,win, Nikita Krylov,1, 4:38, UFC 206 - Holloway vs. Pettis,Dec ,10.0,2016.0, Submission ,Guillotine Choke,John McCarthy
+Misha Cirkunov,win, Ion Cutelaba,3, 1:22, UFC Fight Night 89 - MacDonald vs. Thompson,Jun ,18.0,2016.0, Submission ,Arm-Triangle Choke,Herb Dean
+Misha Cirkunov,win, Alex Nicholson,2, 1:28, UFC Fight Night 82 - Hendricks vs. Thompson,Feb ,6.0,2016.0, Submission ,Neck Crank,Herb Dean
+Misha Cirkunov,win, Daniel Jolly,1, 4:45, UFC Fight Night 74 - Holloway vs. Oliveira,Aug ,23.0,2015.0, KO ,Punches,Jerin Valel
+Misha Cirkunov,win, Shaun Asher,1, 1:20, HKFC - Hard Knocks 43,May ,22.0,2015.0, Submission ,Armbar,Adam Cheadle
+Misha Cirkunov,win, Rodney Wallace,1, 2:00, HKFC  - Hard Knocks 41,Jan ,30.0,2015.0, TKO ,Head Kick,Adam Cheadle
+Misha Cirkunov,win, Martin Desilets,1, 2:36, PFC 2 - Fight Night,Mar ,8.0,2014.0, Technical Submission ,Triangle Choke,
+Misha Cirkunov,win, Jon Ganshorn,1, 1:59, FFL 9 - Northern Nightmare,Sep ,7.0,2013.0, Submission ,Armbar,Kyle Cardinal
+Misha Cirkunov,loss, Aaron Johnson,1, 2:11, King of the Ring - VI,Mar ,17.0,2012.0, Submission ,Heel Hook,
+Misha Cirkunov,win, Ali Mokdad,3, 5:00, SFS 3 - Meltdown in the Valley,Dec ,3.0,2011.0, Decision ,Unanimous,Dan Miragliotta
+Misha Cirkunov,win, Ion Cherdivara,3, 5:00, Knockout Entertainment - MMA: The Reckoning,Apr ,2.0,2011.0, Decision ,Unanimous,Dan Miragliotta
+Misha Cirkunov,win, Ricardeau Francois,1, 0:56, UGC 26 - Ultimate Generation Combat 26,Mar ,4.0,2011.0, TKO ,Punches,
+Misha Cirkunov,win, Shawn Pauliuk,1, 0:57, AFC 3 - Evolution,Jul ,17.0,2010.0, Submission ,Punches,Mac Danzig
+Misha Cirkunov,loss, Roy Boughton,2, 2:33, W-1 MMA 5 - Judgment Day,Jun ,19.0,2010.0, Submission ,Armbar,
+Misha Cirkunov,win, Jeff Doyle,1, 0:40, Ringside MMA 5 - Triple Threat,Jan ,30.0,2010.0, TKO ,Punches,
+Nikita Krylov ,win, Ovince St. Preux, 2, 2:30, UFC 236 - Holloway vs. Poirier,Apr ,13.0,2019.0, Submission ,Rear-Naked Choke,Blake Grice
+Nikita Krylov ,loss, Jan Blachowicz, 2, 2:41, UFC Fight Night 136 - Hunt vs. Oleynik,Sep ,15.0,2018.0, Submission ,Arm-Triangle Choke,Marc Goddard
+Nikita Krylov ,win, Fabio Maldonado, 2, 3:33, FNG - Fight Nights Global 87,May ,19.0,2018.0, KO ,Punch,Jan Vobornik
+Nikita Krylov ,win, Emanuel Newton, 1, 0:43, FNG - Fight Nights Global 77,Oct ,13.0,2017.0, KO ,Knee,Dmitry Valuevich
+Nikita Krylov ,win, Maro Perak, 2, 0:36, Donbass Association of Combat Sports - United Donbass,Aug ,26.0,2017.0, TKO ,Punches,
+Nikita Krylov ,win, Stjepan Bekavac, 1, 0:53, FNG - Fight Nights Global 68,Jun ,2.0,2017.0, Submission ,Guillotine Choke,Herb Dean
+Nikita Krylov ,loss, Misha Cirkunov, 1, 4:38, UFC 206 - Holloway vs. Pettis,Dec ,10.0,2016.0, Submission ,Guillotine Choke,John McCarthy
+Nikita Krylov ,win, Ed Herman, 2, 0:40, UFC 201 - Lawler vs. Woodley,Jul ,30.0,2016.0, KO ,Head Kick,Marc Goddard
+Nikita Krylov ,win, Francimar Barroso, 2, 3:11, UFC Fight Night 87 - Overeem vs. Arlovski,May ,8.0,2016.0, Submission ,Rear-Naked Choke,Lukasz Bosacki
+Nikita Krylov ,win, Marcos Rogerio de Lima, 1, 2:29, UFC Fight Night 74 - Holloway vs. Oliveira,Aug ,23.0,2015.0, Submission ,Rear-Naked Choke,Herb Dean
+Nikita Krylov ,win, Stanislav Nedkov, 1, 1:24, UFC on Fox 14 - Gustafsson vs. Johnson,Jan ,24.0,2015.0, Submission ,Guillotine Choke,Marc Goddard
+Nikita Krylov ,win, Cody Donovan, 1, 4:57, UFC Fight Night 46 - McGregor vs. Brandao,Jul ,19.0,2014.0, TKO ,Punches,Marc Goddard
+Nikita Krylov ,loss, Ovince St. Preux, 1, 1:29, UFC 171 - Hendricks vs. Lawler,Mar ,15.0,2014.0, Technical Submission ,Shoulder Choke,Dan Miragliotta
+Nikita Krylov ,win, Walt Harris, 1, 0:25, UFC on Fox 10 - Henderson vs. Thomson,Jan ,25.0,2014.0, TKO ,Head Kick and Punches,Rob Madrigal
+Nikita Krylov ,loss, Soa Palelei, 3, 1:34, UFC 164 - Henderson vs. Pettis 2,Aug ,31.0,2013.0, TKO ,Punches,Al Wichgers
+Nikita Krylov ,win, Gabriel Tampu, 1, 4:27, M-1 Challenge 38 - Spring Battle,Apr ,9.0,2013.0, TKO ,Punches,Marco Broersen
+Nikita Krylov ,loss, Vladimir Mishchenko, 1, 0:58, OC - Oplot Challenge 40,Mar ,8.0,2013.0, Submission ,Arm-Triangle Choke,Andrey Kolovorotny
+Nikita Krylov ,win, Julian Bogdanov, 1, 1:17, GFC 2 - Gladiators Fighting Championship,Jan ,19.0,2013.0, KO ,Punch,Vladimir Derebas
+Nikita Krylov ,loss, Vladimir Mishchenko, 1, 1:47, OC - Oplot Challenge 22,Dec ,29.0,2012.0, Submission ,Arm-Triangle Choke,Anton Bochorishvili
+Nikita Krylov ,win, Denis Simkin, 1, 0:35, GFC 1 - Gladiators Fighting Championship,Dec ,22.0,2012.0, Submission ,Keylock,Alexandr Lavrenchuk
+Nikita Krylov ,win, Valeriy Shcherbakov, 1, 1:38, WH - Igor Vovchanchyn Cup 2,Nov ,9.0,2012.0, Submission ,Achilles Lock,
+Nikita Krylov ,win, Vladimir Gerasimchik, 1, 1:35, OC - Oplot Challenge 7,Oct ,20.0,2012.0, Submission ,Kimura,Anton Bochorishvili
+Nikita Krylov ,win, Igor Kukurudziak, 1, 2:47, ECSF - Kolomyi Cup,Oct ,13.0,2012.0, Submission ,Kimura,Vitali Vovk
+Nikita Krylov ,win, Viktor Smirnov, 1, 0:12, ECSF - MMA Lion Cup,Oct ,2.0,2012.0, TKO ,Doctor Stoppage,Vitali Vovk
+Nikita Krylov ,win, Anatoliy Didenko, 1, 0:29, OC - Oplot Challenge 4,Sep ,15.0,2012.0, Submission ,Achilles Lock,
+Nikita Krylov ,win, Alexey Stepanov, 1, 0:29, ECSF - MMA Ukraine Cup 7,Sep ,14.0,2012.0, Submission ,Rear-Naked Choke,Alexander Lavrenchuk
+Nikita Krylov ,win, Svyatoslav Scherbakov, 1, 1:44, ECSF - MMA Ukraine Cup 6,Aug ,26.0,2012.0, Submission ,Armbar,
+Nikita Krylov ,win, Anatoliy Didenko, 1, 2:08, ECSF - MMA Ukraine Cup 5,Aug ,18.0,2012.0, Submission ,Rear-Naked Choke,
+Nikita Krylov ,win, Alexey Artemenko, 1, 2:20, BBF - Big Boys Fights,Aug ,16.0,2012.0, Submission ,Guillotine Choke,Alexandr Lavrenchuk
+Nikita Krylov ,win, Denis Bogdanov, 1, 1:31, ECSF - Cup Of West Ukraine 2012,Aug ,10.0,2012.0, Submission ,Rear-Naked Choke,
+Nikita Krylov ,win, Alexander Umrikhin, 1, 0:56, RFP - West Fight 4,Jul ,27.0,2012.0, TKO ,Punches,
+Nikita Krylov ,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Nikita Krylov ,loss, Akhmedshaikh Gelegaev, 1, 2:26, LK - Liga Kavkaz 2012,Jul ,3.0,2012.0, Submission ,Armbar,
+Thiago Santos,win, Jan Blachowicz, 3, 0:39, UFC Fight Night 145 - Blachowicz vs. Santos,Feb ,23.0,2019.0, TKO ,Punches,Herb
+Thiago Santos,win, Jimi Manuwa, 2, 0:41, UFC 231 - Holloway vs. Ortega,Dec ,8.0,2018.0, KO ,Punches,Todd Anderson
+Thiago Santos,win, Eryk Anders, 3, 5:00, UFC Fight Night 137 - Santos vs. Anders,Sep ,22.0,2018.0, TKO ,Elbows,Marc Goddard
+Thiago Santos,win, Kevin Holland, 3, 5:00, UFC 227 - Dillashaw vs. Garbrandt 2,Aug ,4.0,2018.0, Decision ,Unanimous,Mike Beltran
+Thiago Santos,loss, David Branch, 1, 2:30, UFC Fight Night 128 - Barboza vs. Lee,Apr ,21.0,2018.0, KO ,Punches,Gary Copeland
+Thiago Santos,win, Anthony Smith, 2, 1:03, UFC Fight Night 125 - Machida vs. Anders,Feb ,3.0,2018.0, TKO ,Kick to the Body and Punches,Marc Goddard
+Thiago Santos,win, Jack Hermansson, 1, 4:59, UFC Fight Night 119 - Brunson vs. Machida,Oct ,28.0,2017.0, TKO ,Punches,Jerin Valel
+Thiago Santos,win, Gerald Meerschaert, 2, 2:04, UFC 213 - Romero vs. Whittaker,Jul ,8.0,2017.0, TKO ,Punches,Marc Goddard
+Thiago Santos,win, Jack Marshman, 2, 2:21, UFC Fight Night 105 - Lewis vs. Browne,Feb ,19.0,2017.0, TKO ,Spinning Wheel Kick and Punches,Brad Jardine
+Thiago Santos,loss, Eric Spicely, 1, 2:58, UFC Fight Night 95 - Cyborg vs. Lansberg,Sep ,24.0,2016.0, Submission ,Rear-Naked Choke,John McCarthy
+Thiago Santos,loss, Gegard Mousasi, 1, 4:32, UFC 200 - Tate vs. Nunes,Jul ,9.0,2016.0, TKO ,Punches,Marc Goddard
+Thiago Santos,win, Nate Marquardt, 1, 3:39, UFC 198 - Werdum vs. Miocic,May ,14.0,2016.0, KO ,Punch,Kevin MacDonald
+Thiago Santos,win, Elias Theodorou, 3, 5:00, UFC Fight Night 80 - Namajunas vs. VanZant,Dec ,10.0,2015.0, Decision ,Unanimous,Marc Goddard
+Thiago Santos,win, Steve Bosse, 1, 0:29, UFC Fight Night 70 - Machida vs. Romero,Jun ,27.0,2015.0, KO ,Head Kick,James Warring
+Thiago Santos,win, Andy Enz, 1, 1:56, UFC 183 - Silva vs. Diaz,Jan ,31.0,2015.0, TKO ,Punches,Mark Smith
+Thiago Santos,loss, Uriah Hall, 3, 5:00, UFC 175 - Weidman vs. Machida,Jul ,5.0,2014.0, Decision ,Unanimous,Yves Lavigne
+Thiago Santos,win, Ronny Markes, 1, 0:53, UFC Fight Night 38 - Shogun vs. Henderson 2,Mar ,23.0,2014.0, TKO ,Kick to the Body and Punches,Mario Yamasaki
+Thiago Santos,loss, Cezar Ferreira, 1, 0:47, UFC 163 - Aldo vs. Korean Zombie,Aug ,3.0,2013.0, Submission ,Guillotine Choke,Mario Yamasaki
+Thiago Santos,win, Dennis Bentes Figueira da Fonseca, 1, 0:00, WOCS - Watch Out Combat Show 20,Jul ,27.0,2012.0, TKO ,Head Kick and Punches,
+Thiago Santos,loss, Vicente Luque, 1, 0:00, Spartan MMA - Spartan MMA 2012,Apr ,28.0,2012.0, TKO ,Punches,
+Thiago Santos,win, Junior Vidal, 1, 0:00, WOCS - Watch Out Combat Show 18,Mar ,3.0,2012.0, TKO ,Punches,Luiz Cabelinho
+Thiago Santos,win, Eneas Souza, 3, 2:50, WOCS - Watch Out Combat Show 17,Dec ,17.0,2011.0, Submission ,Rear-Naked Choke,
+Thiago Santos,win, Marcos Viggiani, 3, 5:00, Spartan MMA - Spartan MMA 2011,Nov ,26.0,2011.0, Decision ,Unanimous,
+Thiago Santos,win, Rafael Braga, 1, 0:00, EF - Explosion Fight,Aug ,13.0,2011.0, TKO ,Punches,
+Thiago Santos,win, Mauricio Chueke, 3, 5:00, WOCS - Watch Out Combat Show 14,Jul ,23.0,2011.0, Decision ,Unanimous,
+Thiago Santos,win, Gabriel Barreiro, 2, 1:53, SF - Senna Fight,Apr ,16.0,2011.0, TKO ,Punches,
+Thiago Santos,win, Guilherme Benedito Nunes, 3, 5:00, WOCS - Watch Out Combat Show 10,Dec ,10.0,2010.0, Decision ,Unanimous,
+Thiago Santos,Result, Fighter, R, Time, E,vent,,, Method/Referee,,
+Thiago Santos,loss, Armando Sixel, 1, 0:00, RFC - Rio FC 2,Jun ,20.0,2009.0, Submission ,Arm-Triangle Choke,Fernando Paulon
+Volkan Oezdemir,loss, Dominick Reyes,3, 5:00, UFC Fight Night 147 - Till vs. Masvidal,Mar ,16.0,2019.0, Decision ,Split,Leon Roberts
+Volkan Oezdemir,loss, Anthony Smith,3, 4:26, UFC Fight Night 138 - Oezdemir vs. Smith,Oct ,27.0,2018.0, Submission ,Rear-Naked Choke,Yves Lavigne
+Volkan Oezdemir,loss, Daniel Cormier,2, 2:00, UFC 220 - Miocic vs. Ngannou,Jan ,20.0,2018.0, TKO ,Punches,Kevin MacDonald
+Volkan Oezdemir,win, Jimi Manuwa,1, 0:42, UFC 214 - Cormier vs. Jones 2,Jul ,29.0,2017.0, KO ,Punches,Jason Herzog
+Volkan Oezdemir,win, Misha Cirkunov,1, 0:28, UFC Fight Night 109 - Gustafsson vs. Teixeira ,May ,28.0,2017.0, KO ,Punch,Kevin Sataki
+Volkan Oezdemir,win, Ovince St. Preux,3, 5:00, UFC Fight Night 104 - Bermudez vs. Korean Zombie,Feb ,4.0,2017.0, Decision ,Split,Chris Reed
+Volkan Oezdemir,win, Alikhan Vakhaev,3, 5:00, WFCA 17 - Grand Prix Akhmat ,Apr ,9.0,2016.0, Decision ,Unanimous,
+Volkan Oezdemir,win, Paco Estevez,1, N/A, SHC 10 - Carvalho vs. Belo,Sep ,20.0,2014.0, TKO ,Punches,
+Volkan Oezdemir,loss, Kelly Anundson,2, 3:19, Bellator MMA - Bellator 115,Apr ,4.0,2014.0, Submission ,Neck Crank,Herb Dean
+Volkan Oezdemir,win, Josh Lanier,1, 3:13, Bellator MMA - Bellator 105,Oct ,25.0,2013.0, TKO ,Punches and Elbows,Robert Romero
+Volkan Oezdemir,win, David Round,1, 0:00, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, TKO ,Punches,
+Volkan Oezdemir,win, Angelier Benjamin,1, 0:45, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, KO ,Punches,
+Volkan Oezdemir,win, Benyaich Mohamed,1, 0:15, WKN - Valhalla: Battle of the Vikings,Mar ,9.0,2013.0, TKO ,Punches,
+Volkan Oezdemir,win, Mohamed Amidi,1, 1:59, SHC 6 - Belo vs. Rodriguez,Oct ,6.0,2012.0, TKO ,Punches,Boris Regard
+Volkan Oezdemir,win, Bruno Farias Grancheux,1, 1:54, Lions FC 4 - Lions Fighting Championship 4,Sep ,15.0,2012.0, TKO ,Punches,
+Volkan Oezdemir,win, Ronilson Santos,1, 2:12, Lions FC 3 - Lions Fighting Championship 3,May ,12.0,2012.0, TKO ,Retirement,
+Volkan Oezdemir,win, Mamadou Cisse,1, 3:43, 100% Fight 10 - Supreme League Block C,Apr ,7.0,2012.0, Submission ,Kimura,Ludovic Dandine
+Volkan Oezdemir,win, Boubacar Balde,3, 5:00, Lions FC - Lions Fighting Championship,Oct ,15.0,2011.0, Decision ,Unanimous,Jonatas Novaes
+Volkan Oezdemir,win, Martin Vath,1, 0:56, Shooto - Switzerland 7,Sep ,4.0,2010.0, TKO ,Punches,
